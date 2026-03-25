@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>University of Sussex Campus Map</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="dist/main.css" />
+</head>
+<body>
+    <div id="map" role="application" aria-label="Interactive campus map"></div>
+
+    <div class="search-container" role="search" aria-label="Building search">
+        <div class="search-box">
+            <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+            </svg>
+            <input type="text" id="searchInput"
+                   placeholder="Search buildings or facilities..."
+                   autocomplete="off"
+                   role="combobox"
+                   aria-expanded="false"
+                   aria-controls="suggestions"
+                   aria-autocomplete="list"
+                   aria-label="Search for a building" />
+            <button id="clearBtn" aria-label="Clear search">&times;</button>
+        </div>
+        <div id="suggestions" role="listbox" aria-label="Building suggestions"></div>
+    </div>
+
+    <div class="facility-bar" id="facilityBar" role="toolbar" aria-label="Find nearest facility"></div>
+
+    <button class="accessibility-toggle" id="btnAccessibility" aria-pressed="false" aria-label="Show accessible routes">
+        <svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="16" cy="4" r="1"/><path d="m18 19 1-7-6 1"/><path d="m5 8 3-3 5.5 3-2.36 3.5"/><path d="M4.24 14.5a5 5 0 0 0 6.88 6"/><path d="M13.76 17.5a5 5 0 0 0-6.88-6"/></svg>
+        Accessible routes
+    </button>
+
+    <div class="layer-toggle" role="radiogroup" aria-label="Map layer">
+        <button id="layerIllustration" class="active" role="radio" aria-checked="true">Illustrated</button>
+        <button id="layerMap" role="radio" aria-checked="false">Map</button>
+        <button id="layerSatellite" role="radio" aria-checked="false">Satellite</button>
+    </div>
+
+    <aside class="info-panel" id="infoPanel" role="dialog" aria-label="Building information" aria-hidden="true">
+        <button class="panel-close" id="panelClose" aria-label="Close building information">&times;</button>
+        <h2 class="panel-name" id="panelName"></h2>
+        <span class="panel-category" id="panelCategory" data-cat=""></span>
+        <p class="panel-description" id="panelDescription"></p>
+        <div class="panel-grid" id="panelGrid"></div>
+        <div class="panel-facilities" id="panelFacilities"></div>
+        <div class="panel-actions">
+            <button class="panel-btn btn-secondary" id="panelShare" aria-label="Share building location">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                    <path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/>
+                </svg>
+                <span id="shareText">Share</span>
+            </button>
+            <a class="panel-btn btn-primary" id="panelMapsLink" href="#" target="_blank" rel="noopener" aria-label="Open in Google Maps">Open in Google Maps</a>
+            <button class="panel-btn btn-navigate" id="panelNavigate" aria-label="Step-free navigation to this building">
+                <span id="navigateText">Step-free navigation</span>
+            </button>
+            <div class="route-info" id="routeInfo" style="display:none">
+                <span id="routeDistance"></span>
+                <button class="route-clear" id="routeClear" aria-label="Clear route">&times; Clear</button>
+            </div>
+        </div>
+        <div class="panel-qr">
+            <canvas id="qrCanvas"></canvas>
+            <div class="panel-qr-label">Scan to open in Google Maps</div>
+        </div>
+    </aside>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <div class="sr-only" id="srAnnounce" aria-live="polite" aria-atomic="true"></div>
+
+    <script src="dist/main.js"></script>
+</body>
+</html>
