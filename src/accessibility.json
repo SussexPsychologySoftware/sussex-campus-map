@@ -1,0 +1,6511 @@
+{
+  "nodes": [
+    {
+      "id": "osm-6781270637",
+      "type": "waypoint",
+      "lat": 50.8640834,
+      "lng": -0.0866294
+    },
+    {
+      "id": "osm-5204197363",
+      "type": "waypoint",
+      "lat": 50.8640538,
+      "lng": -0.0868502
+    },
+    {
+      "id": "osm-3900032482",
+      "type": "waypoint",
+      "lat": 50.8640585,
+      "lng": -0.0868151
+    },
+    {
+      "id": "osm-6061196911",
+      "type": "waypoint",
+      "lat": 50.8641582,
+      "lng": -0.086073
+    },
+    {
+      "id": "osm-3900072338",
+      "type": "waypoint",
+      "lat": 50.8648888,
+      "lng": -0.0862843
+    },
+    {
+      "id": "osm-6061196912",
+      "type": "waypoint",
+      "lat": 50.8642956,
+      "lng": -0.0861127
+    },
+    {
+      "id": "osm-5908438338",
+      "type": "waypoint",
+      "lat": 50.8644878,
+      "lng": -0.0861683
+    },
+    {
+      "id": "osm-4128450516",
+      "type": "waypoint",
+      "lat": 50.8647822,
+      "lng": -0.0862535
+    },
+    {
+      "id": "osm-3899821665",
+      "type": "waypoint",
+      "lat": 50.8636768,
+      "lng": -0.0893842
+    },
+    {
+      "id": "osm-5138558081",
+      "type": "waypoint",
+      "lat": 50.8632209,
+      "lng": -0.0900508
+    },
+    {
+      "id": "osm-177090193",
+      "type": "waypoint",
+      "lat": 50.8667525,
+      "lng": -0.0874913
+    },
+    {
+      "id": "osm-1440084393",
+      "type": "waypoint",
+      "lat": 50.8667093,
+      "lng": -0.0878509
+    },
+    {
+      "id": "osm-3764497539",
+      "type": "waypoint",
+      "lat": 50.8667235,
+      "lng": -0.0877349
+    },
+    {
+      "id": "osm-176982206",
+      "type": "waypoint",
+      "lat": 50.8667964,
+      "lng": -0.0868973
+    },
+    {
+      "id": "osm-6357210206",
+      "type": "waypoint",
+      "lat": 50.8671119,
+      "lng": -0.0842562
+    },
+    {
+      "id": "osm-5200817429",
+      "type": "waypoint",
+      "lat": 50.8668009,
+      "lng": -0.0868354
+    },
+    {
+      "id": "osm-5204197393",
+      "type": "waypoint",
+      "lat": 50.8668257,
+      "lng": -0.0865931
+    },
+    {
+      "id": "osm-6357210186",
+      "type": "waypoint",
+      "lat": 50.8669613,
+      "lng": -0.0854861
+    },
+    {
+      "id": "osm-7776324505",
+      "type": "waypoint",
+      "lat": 50.8670194,
+      "lng": -0.0849991
+    },
+    {
+      "id": "osm-7776324503",
+      "type": "waypoint",
+      "lat": 50.8670512,
+      "lng": -0.0847627
+    },
+    {
+      "id": "osm-1192925750",
+      "type": "waypoint",
+      "lat": 50.8671084,
+      "lng": -0.0843363
+    },
+    {
+      "id": "osm-5204197372",
+      "type": "waypoint",
+      "lat": 50.8671146,
+      "lng": -0.0842946
+    },
+    {
+      "id": "osm-1268239999",
+      "type": "waypoint",
+      "lat": 50.868484,
+      "lng": -0.0880828
+    },
+    {
+      "id": "osm-9695415569",
+      "type": "waypoint",
+      "lat": 50.8690208,
+      "lng": -0.0882584
+    },
+    {
+      "id": "osm-1268243742",
+      "type": "waypoint",
+      "lat": 50.8691634,
+      "lng": -0.088305
+    },
+    {
+      "id": "osm-177091095",
+      "type": "waypoint",
+      "lat": 50.8692815,
+      "lng": -0.0883436
+    },
+    {
+      "id": "osm-9695415561",
+      "type": "waypoint",
+      "lat": 50.8693769,
+      "lng": -0.0883748
+    },
+    {
+      "id": "osm-7806994336",
+      "type": "waypoint",
+      "lat": 50.8694892,
+      "lng": -0.0884115
+    },
+    {
+      "id": "osm-8518121981",
+      "type": "waypoint",
+      "lat": 50.8695436,
+      "lng": -0.0884293
+    },
+    {
+      "id": "osm-9695415570",
+      "type": "waypoint",
+      "lat": 50.869739,
+      "lng": -0.0884932
+    },
+    {
+      "id": "osm-177094750",
+      "type": "waypoint",
+      "lat": 50.8667513,
+      "lng": -0.0832156
+    },
+    {
+      "id": "osm-8955022339",
+      "type": "waypoint",
+      "lat": 50.8663715,
+      "lng": -0.0828168
+    },
+    {
+      "id": "osm-7776324493",
+      "type": "waypoint",
+      "lat": 50.8668217,
+      "lng": -0.0832966
+    },
+    {
+      "id": "osm-167056747",
+      "type": "waypoint",
+      "lat": 50.8655529,
+      "lng": -0.0819582
+    },
+    {
+      "id": "osm-177099330",
+      "type": "waypoint",
+      "lat": 50.8652525,
+      "lng": -0.0837401
+    },
+    {
+      "id": "osm-177099329",
+      "type": "waypoint",
+      "lat": 50.8653362,
+      "lng": -0.0826877
+    },
+    {
+      "id": "osm-5908438327",
+      "type": "waypoint",
+      "lat": 50.8653185,
+      "lng": -0.0830815
+    },
+    {
+      "id": "osm-8846331920",
+      "type": "waypoint",
+      "lat": 50.8653052,
+      "lng": -0.0832222
+    },
+    {
+      "id": "osm-1919818219",
+      "type": "waypoint",
+      "lat": 50.8653014,
+      "lng": -0.0832621
+    },
+    {
+      "id": "osm-1919818221",
+      "type": "waypoint",
+      "lat": 50.8652786,
+      "lng": -0.0834575
+    },
+    {
+      "id": "osm-1192917634",
+      "type": "waypoint",
+      "lat": 50.8653948,
+      "lng": -0.0887773
+    },
+    {
+      "id": "osm-5352538895",
+      "type": "waypoint",
+      "lat": 50.8640694,
+      "lng": -0.0823182
+    },
+    {
+      "id": "osm-3899821813",
+      "type": "waypoint",
+      "lat": 50.8643119,
+      "lng": -0.0823736
+    },
+    {
+      "id": "osm-1802625884",
+      "type": "waypoint",
+      "lat": 50.8643543,
+      "lng": -0.0832644
+    },
+    {
+      "id": "osm-3764497506",
+      "type": "waypoint",
+      "lat": 50.8654526,
+      "lng": -0.0883204
+    },
+    {
+      "id": "osm-3748536044",
+      "type": "waypoint",
+      "lat": 50.8652576,
+      "lng": -0.0885775
+    },
+    {
+      "id": "osm-4125606709",
+      "type": "waypoint",
+      "lat": 50.8652351,
+      "lng": -0.0887445
+    },
+    {
+      "id": "osm-8898213201",
+      "type": "waypoint",
+      "lat": 50.8653646,
+      "lng": -0.0888126
+    },
+    {
+      "id": "osm-3900003942",
+      "type": "waypoint",
+      "lat": 50.8710507,
+      "lng": -0.0878331
+    },
+    {
+      "id": "osm-7640481399",
+      "type": "waypoint",
+      "lat": 50.8712332,
+      "lng": -0.0875602
+    },
+    {
+      "id": "osm-7640481475",
+      "type": "waypoint",
+      "lat": 50.8710019,
+      "lng": -0.0878945
+    },
+    {
+      "id": "osm-3056257473",
+      "type": "waypoint",
+      "lat": 50.8703851,
+      "lng": -0.088675
+    },
+    {
+      "id": "osm-7640451072",
+      "type": "waypoint",
+      "lat": 50.8706379,
+      "lng": -0.0883849
+    },
+    {
+      "id": "osm-7640481389",
+      "type": "waypoint",
+      "lat": 50.8709342,
+      "lng": -0.0880054
+    },
+    {
+      "id": "osm-1268239961",
+      "type": "waypoint",
+      "lat": 50.8682495,
+      "lng": -0.0899515
+    },
+    {
+      "id": "osm-5908301713",
+      "type": "waypoint",
+      "lat": 50.8684581,
+      "lng": -0.08829
+    },
+    {
+      "id": "osm-2561691945",
+      "type": "waypoint",
+      "lat": 50.8684078,
+      "lng": -0.0886906
+    },
+    {
+      "id": "osm-7806994285",
+      "type": "waypoint",
+      "lat": 50.8683546,
+      "lng": -0.089091
+    },
+    {
+      "id": "osm-1268240003",
+      "type": "waypoint",
+      "lat": 50.8682821,
+      "lng": -0.0896919
+    },
+    {
+      "id": "osm-3899942118",
+      "type": "entrance",
+      "lat": 50.8684499,
+      "lng": -0.0901277,
+      "building": "norwich-house",
+      "entranceType": "general",
+      "bearing": 31
+    },
+    {
+      "id": "osm-1440082853",
+      "type": "waypoint",
+      "lat": 50.8702472,
+      "lng": -0.0889701
+    },
+    {
+      "id": "osm-1802625833",
+      "type": "waypoint",
+      "lat": 50.8633724,
+      "lng": -0.0882813
+    },
+    {
+      "id": "osm-7596884283",
+      "type": "waypoint",
+      "lat": 50.8668694,
+      "lng": -0.083099
+    },
+    {
+      "id": "osm-1436182627",
+      "type": "waypoint",
+      "lat": 50.8671466,
+      "lng": -0.0828211
+    },
+    {
+      "id": "osm-8898213151",
+      "type": "waypoint",
+      "lat": 50.8675179,
+      "lng": -0.082405
+    },
+    {
+      "id": "osm-6511816647",
+      "type": "waypoint",
+      "lat": 50.8676658,
+      "lng": -0.0820502
+    },
+    {
+      "id": "osm-11982886630",
+      "type": "waypoint",
+      "lat": 50.867848,
+      "lng": -0.081511
+    },
+    {
+      "id": "osm-5200797717",
+      "type": "waypoint",
+      "lat": 50.8679983,
+      "lng": -0.0811601
+    },
+    {
+      "id": "osm-5200797723",
+      "type": "waypoint",
+      "lat": 50.8680266,
+      "lng": -0.0805408
+    },
+    {
+      "id": "osm-1439685287",
+      "type": "waypoint",
+      "lat": 50.8674308,
+      "lng": -0.0877384
+    },
+    {
+      "id": "osm-7777674160",
+      "type": "waypoint",
+      "lat": 50.8674294,
+      "lng": -0.08781
+    },
+    {
+      "id": "osm-1439685285",
+      "type": "waypoint",
+      "lat": 50.8673223,
+      "lng": -0.0880717
+    },
+    {
+      "id": "osm-7777674161",
+      "type": "waypoint",
+      "lat": 50.8672788,
+      "lng": -0.0881618
+    },
+    {
+      "id": "osm-3764497537",
+      "type": "waypoint",
+      "lat": 50.8665557,
+      "lng": -0.0879041
+    },
+    {
+      "id": "osm-3748536041",
+      "type": "waypoint",
+      "lat": 50.8662316,
+      "lng": -0.0878278
+    },
+    {
+      "id": "osm-7810171237",
+      "type": "waypoint",
+      "lat": 50.8661015,
+      "lng": -0.0877863
+    },
+    {
+      "id": "osm-5204197387",
+      "type": "waypoint",
+      "lat": 50.866051,
+      "lng": -0.0877675
+    },
+    {
+      "id": "osm-5204197380",
+      "type": "waypoint",
+      "lat": 50.8657651,
+      "lng": -0.0876762
+    },
+    {
+      "id": "osm-1440084392",
+      "type": "waypoint",
+      "lat": 50.8666847,
+      "lng": -0.0880506
+    },
+    {
+      "id": "osm-3899942084",
+      "type": "waypoint",
+      "lat": 50.8666095,
+      "lng": -0.0886596
+    },
+    {
+      "id": "osm-4125653882",
+      "type": "waypoint",
+      "lat": 50.8666559,
+      "lng": -0.0882847
+    },
+    {
+      "id": "osm-7776397142",
+      "type": "waypoint",
+      "lat": 50.8666148,
+      "lng": -0.0886188
+    },
+    {
+      "id": "osm-5204197357",
+      "type": "waypoint",
+      "lat": 50.8641031,
+      "lng": -0.0850488
+    },
+    {
+      "id": "osm-1802625926",
+      "type": "waypoint",
+      "lat": 50.8663577,
+      "lng": -0.0896395
+    },
+    {
+      "id": "osm-8898225517",
+      "type": "waypoint",
+      "lat": 50.8661337,
+      "lng": -0.0895547
+    },
+    {
+      "id": "osm-6297959833",
+      "type": "waypoint",
+      "lat": 50.8660352,
+      "lng": -0.0895112
+    },
+    {
+      "id": "osm-3899849456",
+      "type": "waypoint",
+      "lat": 50.8660455,
+      "lng": -0.0839532
+    },
+    {
+      "id": "osm-1802625906",
+      "type": "waypoint",
+      "lat": 50.8647216,
+      "lng": -0.0885772
+    },
+    {
+      "id": "osm-3899692370",
+      "type": "entrance",
+      "lat": 50.8645508,
+      "lng": -0.0896296,
+      "building": "attenborough-centre-for-the-creative-arts-acca",
+      "entranceType": "general",
+      "bearing": 83
+    },
+    {
+      "id": "osm-6061197689",
+      "type": "waypoint",
+      "lat": 50.8646521,
+      "lng": -0.089063
+    },
+    {
+      "id": "osm-1919818224",
+      "type": "waypoint",
+      "lat": 50.8648724,
+      "lng": -0.0831437
+    },
+    {
+      "id": "osm-7821236123",
+      "type": "waypoint",
+      "lat": 50.8651839,
+      "lng": -0.0832297
+    },
+    {
+      "id": "osm-7821236122",
+      "type": "waypoint",
+      "lat": 50.8650267,
+      "lng": -0.0831889
+    },
+    {
+      "id": "osm-3900168808",
+      "type": "waypoint",
+      "lat": 50.8722047,
+      "lng": -0.0882547
+    },
+    {
+      "id": "osm-3900154855",
+      "type": "waypoint",
+      "lat": 50.8708286,
+      "lng": -0.088962
+    },
+    {
+      "id": "osm-5200797749",
+      "type": "waypoint",
+      "lat": 50.8710008,
+      "lng": -0.0889979
+    },
+    {
+      "id": "osm-2550701895",
+      "type": "waypoint",
+      "lat": 50.871083,
+      "lng": -0.0890225
+    },
+    {
+      "id": "osm-3900166828",
+      "type": "waypoint",
+      "lat": 50.8711989,
+      "lng": -0.0890203
+    },
+    {
+      "id": "osm-6914393337",
+      "type": "waypoint",
+      "lat": 50.8712367,
+      "lng": -0.088978
+    },
+    {
+      "id": "osm-5200797746",
+      "type": "waypoint",
+      "lat": 50.8713177,
+      "lng": -0.0889131
+    },
+    {
+      "id": "osm-3900166823",
+      "type": "waypoint",
+      "lat": 50.8714088,
+      "lng": -0.0888272
+    },
+    {
+      "id": "osm-3900166824",
+      "type": "waypoint",
+      "lat": 50.8714494,
+      "lng": -0.0887146
+    },
+    {
+      "id": "osm-3900166825",
+      "type": "waypoint",
+      "lat": 50.8714697,
+      "lng": -0.0884464
+    },
+    {
+      "id": "osm-5351403618",
+      "type": "waypoint",
+      "lat": 50.8716529,
+      "lng": -0.0882069
+    },
+    {
+      "id": "osm-7821212299",
+      "type": "waypoint",
+      "lat": 50.8717737,
+      "lng": -0.0881036
+    },
+    {
+      "id": "osm-7667359803",
+      "type": "waypoint",
+      "lat": 50.872145,
+      "lng": -0.0881159
+    },
+    {
+      "id": "osm-2550704940",
+      "type": "waypoint",
+      "lat": 50.8728872,
+      "lng": -0.0897077
+    },
+    {
+      "id": "osm-3900167221",
+      "type": "waypoint",
+      "lat": 50.8723795,
+      "lng": -0.0890802
+    },
+    {
+      "id": "osm-5200797771",
+      "type": "waypoint",
+      "lat": 50.8728125,
+      "lng": -0.089736
+    },
+    {
+      "id": "osm-7667764934",
+      "type": "waypoint",
+      "lat": 50.8727447,
+      "lng": -0.0897533
+    },
+    {
+      "id": "osm-5200797765",
+      "type": "waypoint",
+      "lat": 50.8727102,
+      "lng": -0.0897503
+    },
+    {
+      "id": "osm-7667764920",
+      "type": "waypoint",
+      "lat": 50.8726686,
+      "lng": -0.0890286
+    },
+    {
+      "id": "osm-5200797772",
+      "type": "waypoint",
+      "lat": 50.8726812,
+      "lng": -0.088999
+    },
+    {
+      "id": "osm-7667764930",
+      "type": "waypoint",
+      "lat": 50.8727174,
+      "lng": -0.0889976
+    },
+    {
+      "id": "osm-2550704957",
+      "type": "waypoint",
+      "lat": 50.8728374,
+      "lng": -0.0889728
+    },
+    {
+      "id": "osm-5200797822",
+      "type": "waypoint",
+      "lat": 50.8730186,
+      "lng": -0.0889011
+    },
+    {
+      "id": "osm-5200797821",
+      "type": "waypoint",
+      "lat": 50.8731194,
+      "lng": -0.0888927
+    },
+    {
+      "id": "osm-3900168760",
+      "type": "waypoint",
+      "lat": 50.8733301,
+      "lng": -0.088799
+    },
+    {
+      "id": "osm-3900168761",
+      "type": "waypoint",
+      "lat": 50.8733505,
+      "lng": -0.0887699
+    },
+    {
+      "id": "osm-3900168762",
+      "type": "waypoint",
+      "lat": 50.8733678,
+      "lng": -0.0887285
+    },
+    {
+      "id": "osm-7667704381",
+      "type": "waypoint",
+      "lat": 50.8733856,
+      "lng": -0.0885617
+    },
+    {
+      "id": "osm-7667704379",
+      "type": "waypoint",
+      "lat": 50.8733551,
+      "lng": -0.0883534
+    },
+    {
+      "id": "osm-3900168774",
+      "type": "waypoint",
+      "lat": 50.8732505,
+      "lng": -0.088181
+    },
+    {
+      "id": "osm-3900168775",
+      "type": "waypoint",
+      "lat": 50.873216,
+      "lng": -0.0881649
+    },
+    {
+      "id": "osm-7667359836",
+      "type": "waypoint",
+      "lat": 50.8730521,
+      "lng": -0.0882239
+    },
+    {
+      "id": "osm-2561691953",
+      "type": "entrance",
+      "lat": 50.867181,
+      "lng": -0.0898334,
+      "building": "jubilee",
+      "entranceType": "general",
+      "bearing": 139
+    },
+    {
+      "id": "osm-3764497498",
+      "type": "waypoint",
+      "lat": 50.8672332,
+      "lng": -0.0893727
+    },
+    {
+      "id": "osm-2561691955",
+      "type": "waypoint",
+      "lat": 50.8677762,
+      "lng": -0.0887919
+    },
+    {
+      "id": "osm-3899942109",
+      "type": "waypoint",
+      "lat": 50.8677017,
+      "lng": -0.0887731
+    },
+    {
+      "id": "osm-7667248067",
+      "type": "waypoint",
+      "lat": 50.8673466,
+      "lng": -0.0883761
+    },
+    {
+      "id": "osm-2561691957",
+      "type": "entrance",
+      "lat": 50.8677416,
+      "lng": -0.0890554,
+      "building": "essex-house",
+      "entranceType": "general",
+      "bearing": 126
+    },
+    {
+      "id": "osm-7806946770",
+      "type": "waypoint",
+      "lat": 50.8677506,
+      "lng": -0.088994
+    },
+    {
+      "id": "osm-7777674159",
+      "type": "waypoint",
+      "lat": 50.867866,
+      "lng": -0.0885032
+    },
+    {
+      "id": "osm-7777674155",
+      "type": "waypoint",
+      "lat": 50.8676827,
+      "lng": -0.0884259
+    },
+    {
+      "id": "osm-7806946779",
+      "type": "waypoint",
+      "lat": 50.8676161,
+      "lng": -0.0883519
+    },
+    {
+      "id": "osm-6504506275",
+      "type": "waypoint",
+      "lat": 50.8674036,
+      "lng": -0.0881028
+    },
+    {
+      "id": "osm-3764497510",
+      "type": "waypoint",
+      "lat": 50.8660833,
+      "lng": -0.0879208
+    },
+    {
+      "id": "osm-3748536046",
+      "type": "waypoint",
+      "lat": 50.8649621,
+      "lng": -0.0886553
+    },
+    {
+      "id": "osm-3748536045",
+      "type": "waypoint",
+      "lat": 50.8652191,
+      "lng": -0.0885677
+    },
+    {
+      "id": "osm-3764497497",
+      "type": "waypoint",
+      "lat": 50.8670213,
+      "lng": -0.0893045
+    },
+    {
+      "id": "osm-3764497499",
+      "type": "waypoint",
+      "lat": 50.8669356,
+      "lng": -0.0892769
+    },
+    {
+      "id": "osm-3764497500",
+      "type": "waypoint",
+      "lat": 50.8668448,
+      "lng": -0.08925
+    },
+    {
+      "id": "osm-3764497502",
+      "type": "waypoint",
+      "lat": 50.8664497,
+      "lng": -0.0891145
+    },
+    {
+      "id": "osm-4125659300",
+      "type": "waypoint",
+      "lat": 50.8667032,
+      "lng": -0.0892012
+    },
+    {
+      "id": "osm-3764497501",
+      "type": "waypoint",
+      "lat": 50.8665481,
+      "lng": -0.0891476
+    },
+    {
+      "id": "osm-3764497508",
+      "type": "waypoint",
+      "lat": 50.8660448,
+      "lng": -0.0882393
+    },
+    {
+      "id": "osm-4125606712",
+      "type": "waypoint",
+      "lat": 50.8658879,
+      "lng": -0.0884521
+    },
+    {
+      "id": "osm-3764497509",
+      "type": "waypoint",
+      "lat": 50.8660639,
+      "lng": -0.088088
+    },
+    {
+      "id": "osm-5908438357",
+      "type": "waypoint",
+      "lat": 50.8660544,
+      "lng": -0.0881633
+    },
+    {
+      "id": "osm-3826174281",
+      "type": "waypoint",
+      "lat": 50.8641243,
+      "lng": -0.0883874
+    },
+    {
+      "id": "osm-5204208821",
+      "type": "waypoint",
+      "lat": 50.8640638,
+      "lng": -0.0883721
+    },
+    {
+      "id": "osm-7810411078",
+      "type": "waypoint",
+      "lat": 50.8642284,
+      "lng": -0.0884255
+    },
+    {
+      "id": "osm-5169457523",
+      "type": "waypoint",
+      "lat": 50.864158,
+      "lng": -0.0884029
+    },
+    {
+      "id": "osm-3826174284",
+      "type": "waypoint",
+      "lat": 50.8646565,
+      "lng": -0.0885573
+    },
+    {
+      "id": "osm-3826174283",
+      "type": "waypoint",
+      "lat": 50.8645531,
+      "lng": -0.0885344
+    },
+    {
+      "id": "osm-5169457418",
+      "type": "waypoint",
+      "lat": 50.8646063,
+      "lng": -0.0885406
+    },
+    {
+      "id": "osm-3899821826",
+      "type": "entrance",
+      "lat": 50.8649011,
+      "lng": -0.0833395,
+      "building": "sussex-innovation-centre",
+      "entranceType": "general",
+      "bearing": 326
+    },
+    {
+      "id": "osm-3899821831",
+      "type": "entrance",
+      "lat": 50.8648487,
+      "lng": -0.0827092,
+      "building": "sussex-innovation-centre",
+      "entranceType": "general",
+      "bearing": 52
+    },
+    {
+      "id": "osm-5891556313",
+      "type": "waypoint",
+      "lat": 50.8648336,
+      "lng": -0.0828299
+    },
+    {
+      "id": "osm-3899849413",
+      "type": "waypoint",
+      "lat": 50.8645144,
+      "lng": -0.0821764
+    },
+    {
+      "id": "osm-10576746891",
+      "type": "entrance",
+      "lat": 50.8642241,
+      "lng": -0.0816886,
+      "building": "co-operative-childcare",
+      "entranceType": "general",
+      "bearing": 157
+    },
+    {
+      "id": "osm-3899849415",
+      "type": "waypoint",
+      "lat": 50.8643341,
+      "lng": -0.0821435
+    },
+    {
+      "id": "osm-7822706759",
+      "type": "waypoint",
+      "lat": 50.8648643,
+      "lng": -0.0847252
+    },
+    {
+      "id": "osm-3899849427",
+      "type": "waypoint",
+      "lat": 50.8652409,
+      "lng": -0.0838467
+    },
+    {
+      "id": "osm-3899849425",
+      "type": "waypoint",
+      "lat": 50.8652161,
+      "lng": -0.0840736
+    },
+    {
+      "id": "osm-3899849417",
+      "type": "waypoint",
+      "lat": 50.8651915,
+      "lng": -0.0842982
+    },
+    {
+      "id": "osm-3899849432",
+      "type": "waypoint",
+      "lat": 50.8651715,
+      "lng": -0.0844819
+    },
+    {
+      "id": "osm-9153132240",
+      "type": "waypoint",
+      "lat": 50.8651673,
+      "lng": -0.0845202
+    },
+    {
+      "id": "osm-3899849416",
+      "type": "waypoint",
+      "lat": 50.865149,
+      "lng": -0.0846862
+    },
+    {
+      "id": "osm-5244452075",
+      "type": "waypoint",
+      "lat": 50.8650686,
+      "lng": -0.0846673
+    },
+    {
+      "id": "osm-8898225559",
+      "type": "waypoint",
+      "lat": 50.8649901,
+      "lng": -0.0847292
+    },
+    {
+      "id": "osm-8898225558",
+      "type": "waypoint",
+      "lat": 50.8649723,
+      "lng": -0.0847537
+    },
+    {
+      "id": "osm-3899849418",
+      "type": "waypoint",
+      "lat": 50.8650449,
+      "lng": -0.0842603
+    },
+    {
+      "id": "osm-3899849431",
+      "type": "waypoint",
+      "lat": 50.865312,
+      "lng": -0.0845253
+    },
+    {
+      "id": "osm-3899849453",
+      "type": "waypoint",
+      "lat": 50.8667428,
+      "lng": -0.084955
+    },
+    {
+      "id": "osm-3899849455",
+      "type": "waypoint",
+      "lat": 50.865981,
+      "lng": -0.0846429
+    },
+    {
+      "id": "osm-3899849448",
+      "type": "waypoint",
+      "lat": 50.8660995,
+      "lng": -0.0846734
+    },
+    {
+      "id": "osm-6478054782",
+      "type": "waypoint",
+      "lat": 50.8660774,
+      "lng": -0.0835392
+    },
+    {
+      "id": "osm-9277713012",
+      "type": "waypoint",
+      "lat": 50.8660632,
+      "lng": -0.0837231
+    },
+    {
+      "id": "osm-5734094402",
+      "type": "waypoint",
+      "lat": 50.8668174,
+      "lng": -0.0903663
+    },
+    {
+      "id": "osm-1802625924",
+      "type": "waypoint",
+      "lat": 50.8662956,
+      "lng": -0.0900531
+    },
+    {
+      "id": "osm-1802625927",
+      "type": "waypoint",
+      "lat": 50.8663905,
+      "lng": -0.0902215
+    },
+    {
+      "id": "osm-3899942085",
+      "type": "waypoint",
+      "lat": 50.8665913,
+      "lng": -0.0888086
+    },
+    {
+      "id": "osm-3899942104",
+      "type": "waypoint",
+      "lat": 50.8675477,
+      "lng": -0.0884566
+    },
+    {
+      "id": "osm-3900032483",
+      "type": "waypoint",
+      "lat": 50.8639678,
+      "lng": -0.0868188
+    },
+    {
+      "id": "osm-3900032529",
+      "type": "waypoint",
+      "lat": 50.8645257,
+      "lng": -0.0832553
+    },
+    {
+      "id": "osm-3900032526",
+      "type": "waypoint",
+      "lat": 50.8643702,
+      "lng": -0.0832368
+    },
+    {
+      "id": "osm-3900032530",
+      "type": "waypoint",
+      "lat": 50.8640276,
+      "lng": -0.0827916
+    },
+    {
+      "id": "osm-3900072323",
+      "type": "waypoint",
+      "lat": 50.8657671,
+      "lng": -0.0865654
+    },
+    {
+      "id": "osm-3900072322",
+      "type": "waypoint",
+      "lat": 50.8658817,
+      "lng": -0.0866023
+    },
+    {
+      "id": "osm-7810560439",
+      "type": "waypoint",
+      "lat": 50.8659125,
+      "lng": -0.0866123
+    },
+    {
+      "id": "osm-6061197707",
+      "type": "waypoint",
+      "lat": 50.8659573,
+      "lng": -0.0866263
+    },
+    {
+      "id": "osm-6061197708",
+      "type": "waypoint",
+      "lat": 50.8660901,
+      "lng": -0.0866695
+    },
+    {
+      "id": "osm-5414818665",
+      "type": "waypoint",
+      "lat": 50.8661648,
+      "lng": -0.0866936
+    },
+    {
+      "id": "osm-5204197382",
+      "type": "waypoint",
+      "lat": 50.866198,
+      "lng": -0.0867043
+    },
+    {
+      "id": "osm-8846332065",
+      "type": "waypoint",
+      "lat": 50.8663163,
+      "lng": -0.0867425
+    },
+    {
+      "id": "osm-5204197390",
+      "type": "waypoint",
+      "lat": 50.8665327,
+      "lng": -0.0868123
+    },
+    {
+      "id": "osm-3900072337",
+      "type": "waypoint",
+      "lat": 50.8649534,
+      "lng": -0.086303
+    },
+    {
+      "id": "osm-6061197698",
+      "type": "waypoint",
+      "lat": 50.8649172,
+      "lng": -0.0862925
+    },
+    {
+      "id": "osm-5908438352",
+      "type": "waypoint",
+      "lat": 50.8652903,
+      "lng": -0.0864116
+    },
+    {
+      "id": "osm-8898213187",
+      "type": "waypoint",
+      "lat": 50.865312,
+      "lng": -0.0864186
+    },
+    {
+      "id": "osm-1192917624",
+      "type": "waypoint",
+      "lat": 50.8654847,
+      "lng": -0.0864743
+    },
+    {
+      "id": "osm-5169457407",
+      "type": "waypoint",
+      "lat": 50.8657429,
+      "lng": -0.0865576
+    },
+    {
+      "id": "osm-3900155846",
+      "type": "waypoint",
+      "lat": 50.870997,
+      "lng": -0.0907785
+    },
+    {
+      "id": "osm-7667842910",
+      "type": "waypoint",
+      "lat": 50.8704534,
+      "lng": -0.0895938
+    },
+    {
+      "id": "osm-3900155840",
+      "type": "waypoint",
+      "lat": 50.8705578,
+      "lng": -0.0898478
+    },
+    {
+      "id": "osm-4467839978",
+      "type": "waypoint",
+      "lat": 50.8707268,
+      "lng": -0.0903067
+    },
+    {
+      "id": "osm-7667842901",
+      "type": "waypoint",
+      "lat": 50.8708256,
+      "lng": -0.090559
+    },
+    {
+      "id": "osm-8446780675",
+      "type": "waypoint",
+      "lat": 50.8723052,
+      "lng": -0.089213
+    },
+    {
+      "id": "osm-7058095991",
+      "type": "waypoint",
+      "lat": 50.872251,
+      "lng": -0.0894865
+    },
+    {
+      "id": "osm-2550704955",
+      "type": "waypoint",
+      "lat": 50.8723783,
+      "lng": -0.0883927
+    },
+    {
+      "id": "osm-4128454486",
+      "type": "waypoint",
+      "lat": 50.8652194,
+      "lng": -0.0887404
+    },
+    {
+      "id": "osm-4125606725",
+      "type": "waypoint",
+      "lat": 50.8647632,
+      "lng": -0.0873928
+    },
+    {
+      "id": "osm-4125606726",
+      "type": "waypoint",
+      "lat": 50.8649887,
+      "lng": -0.0883409
+    },
+    {
+      "id": "osm-7810411047",
+      "type": "waypoint",
+      "lat": 50.8648349,
+      "lng": -0.0881688
+    },
+    {
+      "id": "osm-5204205113",
+      "type": "waypoint",
+      "lat": 50.8647488,
+      "lng": -0.0880725
+    },
+    {
+      "id": "osm-5169457415",
+      "type": "waypoint",
+      "lat": 50.8648308,
+      "lng": -0.0879383
+    },
+    {
+      "id": "osm-7810411060",
+      "type": "waypoint",
+      "lat": 50.86509,
+      "lng": -0.0883178
+    },
+    {
+      "id": "osm-9025415719",
+      "type": "waypoint",
+      "lat": 50.866692,
+      "lng": -0.0892977
+    },
+    {
+      "id": "osm-7806946764",
+      "type": "waypoint",
+      "lat": 50.8666817,
+      "lng": -0.0893864
+    },
+    {
+      "id": "osm-4125653874",
+      "type": "waypoint",
+      "lat": 50.8670009,
+      "lng": -0.0887921
+    },
+    {
+      "id": "osm-9140619560",
+      "type": "waypoint",
+      "lat": 50.8668509,
+      "lng": -0.0883515
+    },
+    {
+      "id": "osm-7776188970",
+      "type": "waypoint",
+      "lat": 50.8650667,
+      "lng": -0.0886913
+    },
+    {
+      "id": "osm-1439685276",
+      "type": "waypoint",
+      "lat": 50.8646468,
+      "lng": -0.0873613
+    },
+    {
+      "id": "osm-6061196903",
+      "type": "waypoint",
+      "lat": 50.8648061,
+      "lng": -0.0860582
+    },
+    {
+      "id": "osm-5908438344",
+      "type": "waypoint",
+      "lat": 50.8648829,
+      "lng": -0.0854348
+    },
+    {
+      "id": "osm-7821212291",
+      "type": "waypoint",
+      "lat": 50.8710695,
+      "lng": -0.0895214
+    },
+    {
+      "id": "osm-4738877915",
+      "type": "waypoint",
+      "lat": 50.8652801,
+      "lng": -0.0822385
+    },
+    {
+      "id": "osm-4738878624",
+      "type": "entrance",
+      "lat": 50.8651523,
+      "lng": -0.0821183,
+      "building": "freeman",
+      "entranceType": "general",
+      "bearing": 352
+    },
+    {
+      "id": "osm-5128823527",
+      "type": "waypoint",
+      "lat": 50.8647844,
+      "lng": -0.0904453
+    },
+    {
+      "id": "osm-7822706756",
+      "type": "waypoint",
+      "lat": 50.8655325,
+      "lng": -0.0908774
+    },
+    {
+      "id": "osm-3138528670",
+      "type": "entrance",
+      "lat": 50.8631221,
+      "lng": -0.090326,
+      "building": "sport-centre",
+      "entranceType": "general",
+      "bearing": 283
+    },
+    {
+      "id": "osm-5169457406",
+      "type": "waypoint",
+      "lat": 50.8657591,
+      "lng": -0.0864371
+    },
+    {
+      "id": "osm-9041730366",
+      "type": "waypoint",
+      "lat": 50.8657558,
+      "lng": -0.0864613
+    },
+    {
+      "id": "osm-5169457408",
+      "type": "waypoint",
+      "lat": 50.8671767,
+      "lng": -0.0876376
+    },
+    {
+      "id": "osm-9469334104",
+      "type": "waypoint",
+      "lat": 50.867195,
+      "lng": -0.0874909
+    },
+    {
+      "id": "osm-1188301295",
+      "type": "entrance",
+      "lat": 50.8649131,
+      "lng": -0.0879709,
+      "building": "meeting-house",
+      "entranceType": "general",
+      "bearing": 171
+    },
+    {
+      "id": "osm-7810171199",
+      "type": "waypoint",
+      "lat": 50.8644966,
+      "lng": -0.0873021
+    },
+    {
+      "id": "osm-5169457419",
+      "type": "entrance",
+      "lat": 50.8646007,
+      "lng": -0.0885847,
+      "building": "falmer-house",
+      "entranceType": "general",
+      "bearing": 345
+    },
+    {
+      "id": "osm-5169457420",
+      "type": "waypoint",
+      "lat": 50.8646552,
+      "lng": -0.0881232
+    },
+    {
+      "id": "osm-7776306719",
+      "type": "waypoint",
+      "lat": 50.8646157,
+      "lng": -0.0884378
+    },
+    {
+      "id": "osm-5169457521",
+      "type": "waypoint",
+      "lat": 50.8646453,
+      "lng": -0.0882041
+    },
+    {
+      "id": "osm-5204205112",
+      "type": "waypoint",
+      "lat": 50.8645283,
+      "lng": -0.0881674
+    },
+    {
+      "id": "osm-5908438353",
+      "type": "waypoint",
+      "lat": 50.8643652,
+      "lng": -0.0881163
+    },
+    {
+      "id": "osm-5169457522",
+      "type": "waypoint",
+      "lat": 50.8642028,
+      "lng": -0.0880654
+    },
+    {
+      "id": "osm-9469334108",
+      "type": "entrance",
+      "lat": 50.8672794,
+      "lng": -0.0869837,
+      "building": "fulton",
+      "entranceType": "general",
+      "bearing": 128
+    },
+    {
+      "id": "osm-9469334107",
+      "type": "waypoint",
+      "lat": 50.8672612,
+      "lng": -0.0869781
+    },
+    {
+      "id": "osm-5204197358",
+      "type": "waypoint",
+      "lat": 50.8639995,
+      "lng": -0.0850184
+    },
+    {
+      "id": "osm-7822706762",
+      "type": "waypoint",
+      "lat": 50.8640087,
+      "lng": -0.0850211
+    },
+    {
+      "id": "osm-5204197361",
+      "type": "waypoint",
+      "lat": 50.8638639,
+      "lng": -0.0849752
+    },
+    {
+      "id": "osm-5204197376",
+      "type": "entrance",
+      "lat": 50.8666582,
+      "lng": -0.0834378,
+      "building": "john-clifford-west",
+      "entranceType": "general",
+      "bearing": 345
+    },
+    {
+      "id": "osm-5204197377",
+      "type": "waypoint",
+      "lat": 50.8667655,
+      "lng": -0.0835944
+    },
+    {
+      "id": "osm-5169457411",
+      "type": "entrance",
+      "lat": 50.8656947,
+      "lng": -0.0871219,
+      "building": "chichester-i",
+      "entranceType": "general",
+      "bearing": 167
+    },
+    {
+      "id": "osm-5244452094",
+      "type": "waypoint",
+      "lat": 50.8656493,
+      "lng": -0.0871084
+    },
+    {
+      "id": "osm-7399065381",
+      "type": "waypoint",
+      "lat": 50.865782,
+      "lng": -0.0875596
+    },
+    {
+      "id": "osm-7810560445",
+      "type": "waypoint",
+      "lat": 50.8661824,
+      "lng": -0.0868202
+    },
+    {
+      "id": "osm-5204197385",
+      "type": "waypoint",
+      "lat": 50.8660863,
+      "lng": -0.0875122
+    },
+    {
+      "id": "osm-7810596081",
+      "type": "waypoint",
+      "lat": 50.8660881,
+      "lng": -0.0875004
+    },
+    {
+      "id": "osm-5204197386",
+      "type": "waypoint",
+      "lat": 50.8660782,
+      "lng": -0.0875708
+    },
+    {
+      "id": "osm-7399065380",
+      "type": "waypoint",
+      "lat": 50.866066,
+      "lng": -0.0876591
+    },
+    {
+      "id": "osm-7810560471",
+      "type": "entrance",
+      "lat": 50.8664045,
+      "lng": -0.0866179,
+      "building": "richmond",
+      "entranceType": "general",
+      "bearing": 248
+    },
+    {
+      "id": "osm-5204197394",
+      "type": "entrance",
+      "lat": 50.866587,
+      "lng": -0.0864728,
+      "building": "richmond",
+      "entranceType": "general",
+      "bearing": 353
+    },
+    {
+      "id": "osm-9675728265",
+      "type": "waypoint",
+      "lat": 50.866776,
+      "lng": -0.0865681
+    },
+    {
+      "id": "osm-5204197400",
+      "type": "waypoint",
+      "lat": 50.8650128,
+      "lng": -0.0874695
+    },
+    {
+      "id": "osm-5204197401",
+      "type": "waypoint",
+      "lat": 50.865022,
+      "lng": -0.0874151
+    },
+    {
+      "id": "osm-6747231702",
+      "type": "waypoint",
+      "lat": 50.8645369,
+      "lng": -0.0880857
+    },
+    {
+      "id": "osm-7776188962",
+      "type": "waypoint",
+      "lat": 50.8645957,
+      "lng": -0.0877085
+    },
+    {
+      "id": "osm-5204205116",
+      "type": "waypoint",
+      "lat": 50.8645527,
+      "lng": -0.088001
+    },
+    {
+      "id": "osm-5204205120",
+      "type": "waypoint",
+      "lat": 50.8646645,
+      "lng": -0.0880375
+    },
+    {
+      "id": "osm-7776188954",
+      "type": "waypoint",
+      "lat": 50.8643645,
+      "lng": -0.0879378
+    },
+    {
+      "id": "osm-7776188920",
+      "type": "waypoint",
+      "lat": 50.8642242,
+      "lng": -0.0878906
+    },
+    {
+      "id": "osm-6061196968",
+      "type": "waypoint",
+      "lat": 50.8639335,
+      "lng": -0.0885738
+    },
+    {
+      "id": "osm-1802625908",
+      "type": "entrance",
+      "lat": 50.8651976,
+      "lng": -0.0892355,
+      "building": "university-library",
+      "entranceType": "general",
+      "bearing": 109
+    },
+    {
+      "id": "osm-9152776135",
+      "type": "waypoint",
+      "lat": 50.8645138,
+      "lng": -0.08335
+    },
+    {
+      "id": "osm-9152776130",
+      "type": "waypoint",
+      "lat": 50.8645441,
+      "lng": -0.0834241
+    },
+    {
+      "id": "osm-5244452095",
+      "type": "entrance",
+      "lat": 50.8656683,
+      "lng": -0.0869708,
+      "building": "chichester-i",
+      "entranceType": "general",
+      "bearing": 145
+    },
+    {
+      "id": "osm-3899849429",
+      "type": "entrance",
+      "lat": 50.8652683,
+      "lng": -0.0849282,
+      "building": "genome-damage-and-stability-centre-gdsc",
+      "entranceType": "general",
+      "bearing": 36
+    },
+    {
+      "id": "osm-9153132239",
+      "type": "waypoint",
+      "lat": 50.8653082,
+      "lng": -0.0845602
+    },
+    {
+      "id": "osm-9025462724",
+      "type": "waypoint",
+      "lat": 50.8661855,
+      "lng": -0.0865338
+    },
+    {
+      "id": "osm-9025462725",
+      "type": "waypoint",
+      "lat": 50.8661864,
+      "lng": -0.0865272
+    },
+    {
+      "id": "osm-8846332060",
+      "type": "waypoint",
+      "lat": 50.8661258,
+      "lng": -0.0852333
+    },
+    {
+      "id": "osm-8846331926",
+      "type": "waypoint",
+      "lat": 50.8659433,
+      "lng": -0.0850397
+    },
+    {
+      "id": "osm-8846331927",
+      "type": "waypoint",
+      "lat": 50.8658973,
+      "lng": -0.0850145
+    },
+    {
+      "id": "osm-5414818671",
+      "type": "waypoint",
+      "lat": 50.866303,
+      "lng": -0.0855977
+    },
+    {
+      "id": "osm-7399065377",
+      "type": "waypoint",
+      "lat": 50.8665938,
+      "lng": -0.0858925
+    },
+    {
+      "id": "osm-5700420820",
+      "type": "waypoint",
+      "lat": 50.8662137,
+      "lng": -0.0904839
+    },
+    {
+      "id": "osm-5700420823",
+      "type": "waypoint",
+      "lat": 50.8663696,
+      "lng": -0.0904568
+    },
+    {
+      "id": "osm-5709159939",
+      "type": "waypoint",
+      "lat": 50.8654537,
+      "lng": -0.0826419
+    },
+    {
+      "id": "osm-9025430189",
+      "type": "waypoint",
+      "lat": 50.8674096,
+      "lng": -0.0875479
+    },
+    {
+      "id": "osm-5734095430",
+      "type": "waypoint",
+      "lat": 50.8675919,
+      "lng": -0.0877911
+    },
+    {
+      "id": "osm-5734095433",
+      "type": "waypoint",
+      "lat": 50.8679049,
+      "lng": -0.0878934
+    },
+    {
+      "id": "osm-5734095440",
+      "type": "waypoint",
+      "lat": 50.8682279,
+      "lng": -0.0879991
+    },
+    {
+      "id": "osm-9175304948",
+      "type": "entrance",
+      "lat": 50.8649627,
+      "lng": -0.0828306,
+      "building": "ashdown-house",
+      "entranceType": "general",
+      "bearing": 157
+    },
+    {
+      "id": "osm-5891556308",
+      "type": "waypoint",
+      "lat": 50.8649568,
+      "lng": -0.0828044
+    },
+    {
+      "id": "osm-5891556312",
+      "type": "waypoint",
+      "lat": 50.8648967,
+      "lng": -0.0828459
+    },
+    {
+      "id": "osm-7806994291",
+      "type": "waypoint",
+      "lat": 50.8682422,
+      "lng": -0.0900182
+    },
+    {
+      "id": "osm-5169457414",
+      "type": "entrance",
+      "lat": 50.8683147,
+      "lng": -0.0882269,
+      "building": "bramber-house",
+      "entranceType": "general",
+      "bearing": 358
+    },
+    {
+      "id": "osm-5204197371",
+      "type": "entrance",
+      "lat": 50.8667238,
+      "lng": -0.0844199,
+      "building": "hastings",
+      "entranceType": "general",
+      "bearing": 357
+    },
+    {
+      "id": "osm-5908438310",
+      "type": "waypoint",
+      "lat": 50.8667565,
+      "lng": -0.0842038
+    },
+    {
+      "id": "osm-5204197370",
+      "type": "entrance",
+      "lat": 50.8659497,
+      "lng": -0.0848531,
+      "building": "friston",
+      "entranceType": "general",
+      "bearing": 165
+    },
+    {
+      "id": "osm-8846331923",
+      "type": "waypoint",
+      "lat": 50.8659305,
+      "lng": -0.0848458
+    },
+    {
+      "id": "osm-5908438318",
+      "type": "waypoint",
+      "lat": 50.8662052,
+      "lng": -0.0834175
+    },
+    {
+      "id": "osm-5908438315",
+      "type": "waypoint",
+      "lat": 50.8661941,
+      "lng": -0.0835085
+    },
+    {
+      "id": "osm-5908438319",
+      "type": "waypoint",
+      "lat": 50.86629,
+      "lng": -0.083439
+    },
+    {
+      "id": "osm-5908438321",
+      "type": "entrance",
+      "lat": 50.8662931,
+      "lng": -0.0834154,
+      "building": "sussex-health-outcomes-research-and-education-in-cancer-shore-c",
+      "entranceType": "general",
+      "bearing": 301
+    },
+    {
+      "id": "osm-8968803537",
+      "type": "waypoint",
+      "lat": 50.865461,
+      "lng": -0.0831208
+    },
+    {
+      "id": "osm-5908438336",
+      "type": "waypoint",
+      "lat": 50.8645676,
+      "lng": -0.0850732
+    },
+    {
+      "id": "osm-5908438341",
+      "type": "waypoint",
+      "lat": 50.8646305,
+      "lng": -0.0850934
+    },
+    {
+      "id": "osm-9152762934",
+      "type": "waypoint",
+      "lat": 50.8651248,
+      "lng": -0.0855176
+    },
+    {
+      "id": "osm-5908438350",
+      "type": "waypoint",
+      "lat": 50.8649833,
+      "lng": -0.0854668
+    },
+    {
+      "id": "osm-5908438342",
+      "type": "entrance",
+      "lat": 50.8649882,
+      "lng": -0.0854271,
+      "building": "genome-damage-and-stability-centre-gdsc",
+      "entranceType": "general",
+      "bearing": 240
+    },
+    {
+      "id": "osm-5908438354",
+      "type": "waypoint",
+      "lat": 50.8643673,
+      "lng": -0.0880979
+    },
+    {
+      "id": "osm-7776188961",
+      "type": "waypoint",
+      "lat": 50.8644956,
+      "lng": -0.08737
+    },
+    {
+      "id": "osm-5908438358",
+      "type": "entrance",
+      "lat": 50.8660419,
+      "lng": -0.0881575,
+      "building": "arts-a",
+      "entranceType": "general",
+      "bearing": 115
+    },
+    {
+      "id": "osm-5908438363",
+      "type": "waypoint",
+      "lat": 50.8658846,
+      "lng": -0.0896666
+    },
+    {
+      "id": "osm-5908438366",
+      "type": "entrance",
+      "lat": 50.8656705,
+      "lng": -0.0898431,
+      "building": "university-library",
+      "entranceType": "wheelchair_accessible",
+      "bearing": 180
+    },
+    {
+      "id": "osm-6061196910",
+      "type": "waypoint",
+      "lat": 50.8645383,
+      "lng": -0.0858282
+    },
+    {
+      "id": "osm-6061196905",
+      "type": "waypoint",
+      "lat": 50.8648128,
+      "lng": -0.0851462
+    },
+    {
+      "id": "osm-8898225536",
+      "type": "waypoint",
+      "lat": 50.8648686,
+      "lng": -0.0852505
+    },
+    {
+      "id": "osm-8898225535",
+      "type": "waypoint",
+      "lat": 50.8648785,
+      "lng": -0.0851679
+    },
+    {
+      "id": "osm-5908438335",
+      "type": "entrance",
+      "lat": 50.8644426,
+      "lng": -0.085797,
+      "building": "john-maynard-smith-jms",
+      "entranceType": "general",
+      "bearing": 260
+    },
+    {
+      "id": "osm-5908438334",
+      "type": "entrance",
+      "lat": 50.8641827,
+      "lng": -0.0858834,
+      "building": "bsms-teaching",
+      "entranceType": "general",
+      "bearing": 264
+    },
+    {
+      "id": "osm-6061196916",
+      "type": "waypoint",
+      "lat": 50.8641791,
+      "lng": -0.0859098
+    },
+    {
+      "id": "osm-6061196914",
+      "type": "entrance",
+      "lat": 50.864335,
+      "lng": -0.0857923,
+      "building": "john-maynard-smith-jms",
+      "entranceType": "general",
+      "bearing": 249
+    },
+    {
+      "id": "osm-6061196919",
+      "type": "waypoint",
+      "lat": 50.8640168,
+      "lng": -0.0857101
+    },
+    {
+      "id": "osm-6061196942",
+      "type": "waypoint",
+      "lat": 50.8641662,
+      "lng": -0.0845717
+    },
+    {
+      "id": "osm-6061196930",
+      "type": "waypoint",
+      "lat": 50.8642317,
+      "lng": -0.0852748
+    },
+    {
+      "id": "osm-6061196936",
+      "type": "waypoint",
+      "lat": 50.8641633,
+      "lng": -0.0849317
+    },
+    {
+      "id": "osm-5908438337",
+      "type": "waypoint",
+      "lat": 50.864493,
+      "lng": -0.0850471
+    },
+    {
+      "id": "osm-6061196933",
+      "type": "waypoint",
+      "lat": 50.8642433,
+      "lng": -0.0851996
+    },
+    {
+      "id": "osm-6061196934",
+      "type": "waypoint",
+      "lat": 50.8642731,
+      "lng": -0.0849701
+    },
+    {
+      "id": "osm-6061196935",
+      "type": "waypoint",
+      "lat": 50.864251,
+      "lng": -0.0851589
+    },
+    {
+      "id": "osm-6747231706",
+      "type": "waypoint",
+      "lat": 50.8641755,
+      "lng": -0.0848378
+    },
+    {
+      "id": "osm-6061196939",
+      "type": "waypoint",
+      "lat": 50.8640121,
+      "lng": -0.0849919
+    },
+    {
+      "id": "osm-5908438333",
+      "type": "entrance",
+      "lat": 50.8640232,
+      "lng": -0.0849166,
+      "building": "bsms-research",
+      "entranceType": "general",
+      "bearing": 284
+    },
+    {
+      "id": "osm-6061196941",
+      "type": "entrance",
+      "lat": 50.8640681,
+      "lng": -0.0848715,
+      "building": "bsms-research",
+      "entranceType": "general",
+      "bearing": 312
+    },
+    {
+      "id": "osm-9277754058",
+      "type": "waypoint",
+      "lat": 50.8638671,
+      "lng": -0.0847541
+    },
+    {
+      "id": "osm-9152714723",
+      "type": "waypoint",
+      "lat": 50.8642236,
+      "lng": -0.0845918
+    },
+    {
+      "id": "osm-6061196948",
+      "type": "entrance",
+      "lat": 50.8644659,
+      "lng": -0.0844966,
+      "building": "john-maynard-smith-jms",
+      "entranceType": "general",
+      "bearing": 106
+    },
+    {
+      "id": "osm-1802625878",
+      "type": "waypoint",
+      "lat": 50.864224,
+      "lng": -0.0840047
+    },
+    {
+      "id": "osm-6061196950",
+      "type": "waypoint",
+      "lat": 50.8643216,
+      "lng": -0.0840186
+    },
+    {
+      "id": "osm-6061196951",
+      "type": "waypoint",
+      "lat": 50.8643873,
+      "lng": -0.0840336
+    },
+    {
+      "id": "osm-6061196955",
+      "type": "waypoint",
+      "lat": 50.8641051,
+      "lng": -0.0864679
+    },
+    {
+      "id": "osm-7776326422",
+      "type": "waypoint",
+      "lat": 50.8641809,
+      "lng": -0.0866642
+    },
+    {
+      "id": "osm-6061196958",
+      "type": "waypoint",
+      "lat": 50.8636676,
+      "lng": -0.0873758
+    },
+    {
+      "id": "osm-6061196973",
+      "type": "waypoint",
+      "lat": 50.8640954,
+      "lng": -0.0886161
+    },
+    {
+      "id": "osm-7952097881",
+      "type": "waypoint",
+      "lat": 50.864074,
+      "lng": -0.0886139
+    },
+    {
+      "id": "osm-6061196972",
+      "type": "entrance",
+      "lat": 50.864128,
+      "lng": -0.0886698,
+      "building": "falmer-house",
+      "entranceType": "general",
+      "bearing": 202
+    },
+    {
+      "id": "osm-6061196971",
+      "type": "waypoint",
+      "lat": 50.8641304,
+      "lng": -0.0886299
+    },
+    {
+      "id": "osm-6061196976",
+      "type": "entrance",
+      "lat": 50.8628502,
+      "lng": -0.0902288,
+      "building": "sport-centre",
+      "entranceType": "general",
+      "bearing": 209
+    },
+    {
+      "id": "osm-6061197686",
+      "type": "waypoint",
+      "lat": 50.8629598,
+      "lng": -0.0896347
+    },
+    {
+      "id": "osm-6061197685",
+      "type": "waypoint",
+      "lat": 50.8629053,
+      "lng": -0.0900233
+    },
+    {
+      "id": "osm-6061196978",
+      "type": "entrance",
+      "lat": 50.862932,
+      "lng": -0.0900504,
+      "building": "sport-centre",
+      "entranceType": "general",
+      "bearing": 185
+    },
+    {
+      "id": "osm-6061196977",
+      "type": "entrance",
+      "lat": 50.8629811,
+      "lng": -0.0896656,
+      "building": "sport-centre",
+      "entranceType": "general",
+      "bearing": 113
+    },
+    {
+      "id": "osm-6061197688",
+      "type": "entrance",
+      "lat": 50.8645493,
+      "lng": -0.0889691,
+      "building": "falmer-house",
+      "entranceType": "general",
+      "bearing": 297
+    },
+    {
+      "id": "osm-6061197690",
+      "type": "waypoint",
+      "lat": 50.8645405,
+      "lng": -0.0890306
+    },
+    {
+      "id": "osm-6061197697",
+      "type": "entrance",
+      "lat": 50.8649155,
+      "lng": -0.0863175,
+      "building": "pevensey-i",
+      "entranceType": "general",
+      "bearing": 107
+    },
+    {
+      "id": "osm-5908438351",
+      "type": "entrance",
+      "lat": 50.8653502,
+      "lng": -0.0858858,
+      "building": "pevensey-ii",
+      "entranceType": "general",
+      "bearing": 324
+    },
+    {
+      "id": "osm-8898213169",
+      "type": "waypoint",
+      "lat": 50.8653464,
+      "lng": -0.0859191
+    },
+    {
+      "id": "osm-6061197705",
+      "type": "waypoint",
+      "lat": 50.8661099,
+      "lng": -0.0865154
+    },
+    {
+      "id": "osm-5908301718",
+      "type": "entrance",
+      "lat": 50.8665092,
+      "lng": -0.0897437,
+      "building": "silverstone",
+      "entranceType": "general",
+      "bearing": 172
+    },
+    {
+      "id": "osm-7806946765",
+      "type": "waypoint",
+      "lat": 50.8664755,
+      "lng": -0.089672
+    },
+    {
+      "id": "osm-7821277287",
+      "type": "waypoint",
+      "lat": 50.8650719,
+      "lng": -0.0882313
+    },
+    {
+      "id": "osm-6297959831",
+      "type": "waypoint",
+      "lat": 50.8657729,
+      "lng": -0.0893531
+    },
+    {
+      "id": "osm-6297959832",
+      "type": "waypoint",
+      "lat": 50.8660399,
+      "lng": -0.0894587
+    },
+    {
+      "id": "osm-6297959834",
+      "type": "waypoint",
+      "lat": 50.8660608,
+      "lng": -0.0893556
+    },
+    {
+      "id": "osm-6297959838",
+      "type": "waypoint",
+      "lat": 50.8659811,
+      "lng": -0.0886979
+    },
+    {
+      "id": "osm-6357210188",
+      "type": "waypoint",
+      "lat": 50.8670376,
+      "lng": -0.0857285
+    },
+    {
+      "id": "osm-6357210192",
+      "type": "waypoint",
+      "lat": 50.8670662,
+      "lng": -0.0860319
+    },
+    {
+      "id": "osm-6357210187",
+      "type": "waypoint",
+      "lat": 50.8670123,
+      "lng": -0.0856084
+    },
+    {
+      "id": "osm-6357210201",
+      "type": "entrance",
+      "lat": 50.8674009,
+      "lng": -0.0867463,
+      "building": "fulton",
+      "entranceType": "general",
+      "bearing": 80
+    },
+    {
+      "id": "osm-12379377963",
+      "type": "waypoint",
+      "lat": 50.8677399,
+      "lng": -0.084562
+    },
+    {
+      "id": "osm-6357210213",
+      "type": "waypoint",
+      "lat": 50.8678562,
+      "lng": -0.0851057
+    },
+    {
+      "id": "osm-6357210419",
+      "type": "waypoint",
+      "lat": 50.8678931,
+      "lng": -0.0854704
+    },
+    {
+      "id": "osm-7596884267",
+      "type": "waypoint",
+      "lat": 50.8679582,
+      "lng": -0.08582
+    },
+    {
+      "id": "osm-6358256181",
+      "type": "waypoint",
+      "lat": 50.8683237,
+      "lng": -0.0860784
+    },
+    {
+      "id": "osm-6358256158",
+      "type": "waypoint",
+      "lat": 50.8691333,
+      "lng": -0.0868786
+    },
+    {
+      "id": "osm-8517998271",
+      "type": "waypoint",
+      "lat": 50.8691894,
+      "lng": -0.0873464
+    },
+    {
+      "id": "osm-7929214960",
+      "type": "waypoint",
+      "lat": 50.8692333,
+      "lng": -0.0878084
+    },
+    {
+      "id": "osm-6357210421",
+      "type": "waypoint",
+      "lat": 50.8685077,
+      "lng": -0.0856189
+    },
+    {
+      "id": "osm-7596884270",
+      "type": "waypoint",
+      "lat": 50.8685998,
+      "lng": -0.0856581
+    },
+    {
+      "id": "osm-7596884268",
+      "type": "waypoint",
+      "lat": 50.8688506,
+      "lng": -0.0857528
+    },
+    {
+      "id": "osm-9041731700",
+      "type": "waypoint",
+      "lat": 50.8693605,
+      "lng": -0.0861966
+    },
+    {
+      "id": "osm-7942371342",
+      "type": "waypoint",
+      "lat": 50.8696382,
+      "lng": -0.0862909
+    },
+    {
+      "id": "osm-6357210443",
+      "type": "waypoint",
+      "lat": 50.8697986,
+      "lng": -0.0863473
+    },
+    {
+      "id": "osm-8517998303",
+      "type": "waypoint",
+      "lat": 50.8700772,
+      "lng": -0.0864446
+    },
+    {
+      "id": "osm-7932064908",
+      "type": "waypoint",
+      "lat": 50.8677645,
+      "lng": -0.0864868
+    },
+    {
+      "id": "osm-7932064912",
+      "type": "waypoint",
+      "lat": 50.8680517,
+      "lng": -0.0865816
+    },
+    {
+      "id": "osm-6358256175",
+      "type": "waypoint",
+      "lat": 50.868248,
+      "lng": -0.0866484
+    },
+    {
+      "id": "osm-7931309982",
+      "type": "waypoint",
+      "lat": 50.8682756,
+      "lng": -0.0866569
+    },
+    {
+      "id": "osm-7932064914",
+      "type": "waypoint",
+      "lat": 50.8684949,
+      "lng": -0.0867295
+    },
+    {
+      "id": "osm-7932064917",
+      "type": "waypoint",
+      "lat": 50.8687893,
+      "lng": -0.086826
+    },
+    {
+      "id": "osm-8898213153",
+      "type": "waypoint",
+      "lat": 50.8662874,
+      "lng": -0.0834597
+    },
+    {
+      "id": "osm-6478054771",
+      "type": "waypoint",
+      "lat": 50.8664754,
+      "lng": -0.0835788
+    },
+    {
+      "id": "osm-6478054772",
+      "type": "waypoint",
+      "lat": 50.8664668,
+      "lng": -0.0836666
+    },
+    {
+      "id": "osm-6478054777",
+      "type": "waypoint",
+      "lat": 50.8660993,
+      "lng": -0.0835436
+    },
+    {
+      "id": "osm-8898213154",
+      "type": "waypoint",
+      "lat": 50.8662859,
+      "lng": -0.0834715
+    },
+    {
+      "id": "osm-6478054783",
+      "type": "waypoint",
+      "lat": 50.8660027,
+      "lng": -0.0834484
+    },
+    {
+      "id": "osm-6478054767",
+      "type": "waypoint",
+      "lat": 50.8660133,
+      "lng": -0.0833473
+    },
+    {
+      "id": "osm-5908438320",
+      "type": "entrance",
+      "lat": 50.8662828,
+      "lng": -0.0834953,
+      "building": "trafford-centre",
+      "entranceType": "general",
+      "bearing": 92
+    },
+    {
+      "id": "osm-5709159930",
+      "type": "waypoint",
+      "lat": 50.865858,
+      "lng": -0.0827055
+    },
+    {
+      "id": "osm-6478071635",
+      "type": "entrance",
+      "lat": 50.8660051,
+      "lng": -0.0830357,
+      "building": "clinical-imaging-sciences-centre-cisc",
+      "entranceType": "general",
+      "bearing": 52
+    },
+    {
+      "id": "osm-6478071641",
+      "type": "waypoint",
+      "lat": 50.8660645,
+      "lng": -0.0830364
+    },
+    {
+      "id": "osm-6478071639",
+      "type": "waypoint",
+      "lat": 50.8663191,
+      "lng": -0.0827617
+    },
+    {
+      "id": "osm-5908438322",
+      "type": "entrance",
+      "lat": 50.8662523,
+      "lng": -0.0831998,
+      "building": "sussex-health-outcomes-research-and-education-in-cancer-shore-c",
+      "entranceType": "general",
+      "bearing": 87
+    },
+    {
+      "id": "osm-9464268720",
+      "type": "entrance",
+      "lat": 50.8651902,
+      "lng": -0.0829095,
+      "building": "ashdown-house",
+      "entranceType": "general",
+      "bearing": 5
+    },
+    {
+      "id": "osm-6504501364",
+      "type": "waypoint",
+      "lat": 50.8651939,
+      "lng": -0.0831355
+    },
+    {
+      "id": "osm-6504501365",
+      "type": "waypoint",
+      "lat": 50.8643337,
+      "lng": -0.0831501
+    },
+    {
+      "id": "osm-6504501366",
+      "type": "waypoint",
+      "lat": 50.8643694,
+      "lng": -0.0830845
+    },
+    {
+      "id": "osm-1215106190",
+      "type": "entrance",
+      "lat": 50.8645805,
+      "lng": -0.0829537,
+      "building": "sussex-innovation-centre",
+      "entranceType": "general",
+      "bearing": 134
+    },
+    {
+      "id": "osm-8655649937",
+      "type": "waypoint",
+      "lat": 50.8674468,
+      "lng": -0.0819929
+    },
+    {
+      "id": "osm-7776188921",
+      "type": "waypoint",
+      "lat": 50.8640056,
+      "lng": -0.089091
+    },
+    {
+      "id": "osm-9041730368",
+      "type": "waypoint",
+      "lat": 50.8657123,
+      "lng": -0.086771
+    },
+    {
+      "id": "osm-7399065376",
+      "type": "entrance",
+      "lat": 50.8657188,
+      "lng": -0.086929,
+      "building": "chichester-i",
+      "entranceType": "general",
+      "bearing": 131
+    },
+    {
+      "id": "osm-7399065379",
+      "type": "entrance",
+      "lat": 50.8664959,
+      "lng": -0.085968,
+      "building": "richmond",
+      "entranceType": "general",
+      "bearing": 81
+    },
+    {
+      "id": "osm-5204197379",
+      "type": "entrance",
+      "lat": 50.8657918,
+      "lng": -0.0874738,
+      "building": "chichester-i",
+      "entranceType": "general",
+      "bearing": 250
+    },
+    {
+      "id": "osm-7596884266",
+      "type": "waypoint",
+      "lat": 50.8681411,
+      "lng": -0.0856858
+    },
+    {
+      "id": "osm-7596884284",
+      "type": "waypoint",
+      "lat": 50.8671743,
+      "lng": -0.0831572
+    },
+    {
+      "id": "osm-7667311884",
+      "type": "waypoint",
+      "lat": 50.8714001,
+      "lng": -0.0913676
+    },
+    {
+      "id": "osm-7667764996",
+      "type": "waypoint",
+      "lat": 50.8715649,
+      "lng": -0.0905182
+    },
+    {
+      "id": "osm-7667359785",
+      "type": "waypoint",
+      "lat": 50.871473,
+      "lng": -0.0908358
+    },
+    {
+      "id": "osm-7667765016",
+      "type": "waypoint",
+      "lat": 50.8714328,
+      "lng": -0.0911203
+    },
+    {
+      "id": "osm-7667764998",
+      "type": "waypoint",
+      "lat": 50.8715374,
+      "lng": -0.090492
+    },
+    {
+      "id": "osm-7667765001",
+      "type": "waypoint",
+      "lat": 50.8715655,
+      "lng": -0.0902727
+    },
+    {
+      "id": "osm-7821212287",
+      "type": "waypoint",
+      "lat": 50.8712945,
+      "lng": -0.0899789
+    },
+    {
+      "id": "osm-7776188919",
+      "type": "waypoint",
+      "lat": 50.8642141,
+      "lng": -0.0879833
+    },
+    {
+      "id": "osm-7776188922",
+      "type": "waypoint",
+      "lat": 50.8640293,
+      "lng": -0.0888618
+    },
+    {
+      "id": "osm-7776188963",
+      "type": "waypoint",
+      "lat": 50.8645469,
+      "lng": -0.0876922
+    },
+    {
+      "id": "osm-7776188969",
+      "type": "waypoint",
+      "lat": 50.8650456,
+      "lng": -0.0886825
+    },
+    {
+      "id": "osm-1192917594",
+      "type": "entrance",
+      "lat": 50.8652864,
+      "lng": -0.0894399,
+      "building": "university-library",
+      "entranceType": "general",
+      "bearing": 99
+    },
+    {
+      "id": "osm-7776306720",
+      "type": "entrance",
+      "lat": 50.8646673,
+      "lng": -0.0884574,
+      "building": "falmer-house",
+      "entranceType": "general",
+      "bearing": 6
+    },
+    {
+      "id": "osm-7667248064",
+      "type": "entrance",
+      "lat": 50.8641896,
+      "lng": -0.0866673,
+      "building": "sussex-house",
+      "entranceType": "general",
+      "bearing": 106
+    },
+    {
+      "id": "osm-7667248063",
+      "type": "entrance",
+      "lat": 50.8642404,
+      "lng": -0.0870664,
+      "building": "sussex-house",
+      "entranceType": "general",
+      "bearing": 272
+    },
+    {
+      "id": "osm-7776326423",
+      "type": "waypoint",
+      "lat": 50.8642384,
+      "lng": -0.0870937
+    },
+    {
+      "id": "osm-6478054773",
+      "type": "waypoint",
+      "lat": 50.8664142,
+      "lng": -0.0837224
+    },
+    {
+      "id": "osm-9278704695",
+      "type": "waypoint",
+      "lat": 50.8664118,
+      "lng": -0.0837411
+    },
+    {
+      "id": "osm-9277713013",
+      "type": "waypoint",
+      "lat": 50.866384,
+      "lng": -0.0838234
+    },
+    {
+      "id": "osm-7776397143",
+      "type": "waypoint",
+      "lat": 50.866727,
+      "lng": -0.0886589
+    },
+    {
+      "id": "osm-7777674162",
+      "type": "waypoint",
+      "lat": 50.8674749,
+      "lng": -0.0883479
+    },
+    {
+      "id": "osm-7667949514",
+      "type": "entrance",
+      "lat": 50.8677909,
+      "lng": -0.0806662,
+      "building": "falmer-sports-complex",
+      "entranceType": "general",
+      "bearing": 98
+    },
+    {
+      "id": "osm-7806242126",
+      "type": "entrance",
+      "lat": 50.8659284,
+      "lng": -0.0896925,
+      "building": "institute-of-development-studies-ids",
+      "entranceType": "general",
+      "bearing": 78
+    },
+    {
+      "id": "osm-7806242127",
+      "type": "waypoint",
+      "lat": 50.8659308,
+      "lng": -0.0896606
+    },
+    {
+      "id": "osm-7806242130",
+      "type": "entrance",
+      "lat": 50.8659411,
+      "lng": -0.0899467,
+      "building": "institute-of-development-studies-ids",
+      "entranceType": "general",
+      "bearing": 68
+    },
+    {
+      "id": "osm-7806242134",
+      "type": "waypoint",
+      "lat": 50.8660308,
+      "lng": -0.0904571
+    },
+    {
+      "id": "osm-5908438367",
+      "type": "entrance",
+      "lat": 50.8659002,
+      "lng": -0.090423,
+      "building": "institute-of-development-studies-ids",
+      "entranceType": "general",
+      "bearing": 306
+    },
+    {
+      "id": "osm-4125659301",
+      "type": "entrance",
+      "lat": 50.8666744,
+      "lng": -0.0894491,
+      "building": "silverstone",
+      "entranceType": "general",
+      "bearing": 110
+    },
+    {
+      "id": "osm-3899942087",
+      "type": "waypoint",
+      "lat": 50.8664288,
+      "lng": -0.0895724
+    },
+    {
+      "id": "osm-7806946767",
+      "type": "entrance",
+      "lat": 50.8667581,
+      "lng": -0.0886695,
+      "building": "arts-c",
+      "entranceType": "general",
+      "bearing": 126
+    },
+    {
+      "id": "osm-9026743913",
+      "type": "entrance",
+      "lat": 50.8681641,
+      "lng": -0.0895487,
+      "building": "essex-house",
+      "entranceType": "general",
+      "bearing": 340
+    },
+    {
+      "id": "osm-9026743910",
+      "type": "waypoint",
+      "lat": 50.8682994,
+      "lng": -0.0891068
+    },
+    {
+      "id": "osm-5908301712",
+      "type": "entrance",
+      "lat": 50.8682314,
+      "lng": -0.0901128,
+      "building": "norwich-house",
+      "entranceType": "general",
+      "bearing": 75
+    },
+    {
+      "id": "osm-7810560413",
+      "type": "waypoint",
+      "lat": 50.8644087,
+      "lng": -0.0871546
+    },
+    {
+      "id": "osm-9041730381",
+      "type": "waypoint",
+      "lat": 50.8659643,
+      "lng": -0.0889523
+    },
+    {
+      "id": "osm-5908438360",
+      "type": "entrance",
+      "lat": 50.8663545,
+      "lng": -0.0877028,
+      "building": "shawcross",
+      "entranceType": "general",
+      "bearing": 269
+    },
+    {
+      "id": "osm-7810560416",
+      "type": "entrance",
+      "lat": 50.864503,
+      "lng": -0.0871498,
+      "building": "sussex-house",
+      "entranceType": "general",
+      "bearing": 332
+    },
+    {
+      "id": "osm-7810560442",
+      "type": "waypoint",
+      "lat": 50.8658886,
+      "lng": -0.0865491
+    },
+    {
+      "id": "osm-7810560441",
+      "type": "entrance",
+      "lat": 50.8658476,
+      "lng": -0.0865132,
+      "building": "chichester-ii",
+      "entranceType": "general",
+      "bearing": 263
+    },
+    {
+      "id": "osm-7810560446",
+      "type": "entrance",
+      "lat": 50.8664043,
+      "lng": -0.0868977,
+      "building": "shawcross",
+      "entranceType": "general",
+      "bearing": 81
+    },
+    {
+      "id": "osm-5908438359",
+      "type": "entrance",
+      "lat": 50.8661607,
+      "lng": -0.0875277,
+      "building": "shawcross",
+      "entranceType": "general",
+      "bearing": 211
+    },
+    {
+      "id": "osm-7810624670",
+      "type": "waypoint",
+      "lat": 50.8655494,
+      "lng": -0.0905164
+    },
+    {
+      "id": "osm-7810624671",
+      "type": "entrance",
+      "lat": 50.8654825,
+      "lng": -0.0903387,
+      "building": "university-library",
+      "entranceType": "general",
+      "bearing": 296
+    },
+    {
+      "id": "osm-7810624686",
+      "type": "entrance",
+      "lat": 50.8647519,
+      "lng": -0.0898166,
+      "building": "attenborough-centre-for-the-creative-arts-acca",
+      "entranceType": "general",
+      "bearing": 10
+    },
+    {
+      "id": "osm-7821193247",
+      "type": "waypoint",
+      "lat": 50.8647949,
+      "lng": -0.090328
+    },
+    {
+      "id": "osm-5734094404",
+      "type": "waypoint",
+      "lat": 50.867363,
+      "lng": -0.0895033
+    },
+    {
+      "id": "osm-6504501362",
+      "type": "waypoint",
+      "lat": 50.8650302,
+      "lng": -0.0831687
+    },
+    {
+      "id": "osm-3899692247",
+      "type": "entrance",
+      "lat": 50.865049,
+      "lng": -0.0881706,
+      "building": "meeting-house",
+      "entranceType": "general",
+      "bearing": 282
+    },
+    {
+      "id": "osm-7822706761",
+      "type": "waypoint",
+      "lat": 50.8648883,
+      "lng": -0.084518
+    },
+    {
+      "id": "osm-7929214948",
+      "type": "waypoint",
+      "lat": 50.8692066,
+      "lng": -0.0868519
+    },
+    {
+      "id": "osm-8518008948",
+      "type": "waypoint",
+      "lat": 50.8694344,
+      "lng": -0.0867856
+    },
+    {
+      "id": "osm-7942371433",
+      "type": "waypoint",
+      "lat": 50.8677805,
+      "lng": -0.0863392
+    },
+    {
+      "id": "osm-7942371428",
+      "type": "waypoint",
+      "lat": 50.8680758,
+      "lng": -0.0864533
+    },
+    {
+      "id": "osm-7932064919",
+      "type": "waypoint",
+      "lat": 50.8682605,
+      "lng": -0.0869393
+    },
+    {
+      "id": "osm-9041730415",
+      "type": "waypoint",
+      "lat": 50.8682378,
+      "lng": -0.0869311
+    },
+    {
+      "id": "osm-7932064921",
+      "type": "waypoint",
+      "lat": 50.8688843,
+      "lng": -0.0871591
+    },
+    {
+      "id": "osm-7952097884",
+      "type": "waypoint",
+      "lat": 50.8649692,
+      "lng": -0.0903845
+    },
+    {
+      "id": "osm-7952127385",
+      "type": "entrance",
+      "lat": 50.8650251,
+      "lng": -0.0899663,
+      "building": "university-library",
+      "entranceType": "general",
+      "bearing": 196
+    },
+    {
+      "id": "osm-7952097883",
+      "type": "entrance",
+      "lat": 50.8650807,
+      "lng": -0.0904207,
+      "building": "university-library",
+      "entranceType": "general",
+      "bearing": 237
+    },
+    {
+      "id": "osm-5734095427",
+      "type": "waypoint",
+      "lat": 50.8673885,
+      "lng": -0.0877204
+    },
+    {
+      "id": "osm-5734095436",
+      "type": "waypoint",
+      "lat": 50.8677168,
+      "lng": -0.0878319
+    },
+    {
+      "id": "osm-5734095443",
+      "type": "waypoint",
+      "lat": 50.8680337,
+      "lng": -0.0879356
+    },
+    {
+      "id": "osm-8655649934",
+      "type": "entrance",
+      "lat": 50.8677064,
+      "lng": -0.0811642,
+      "building": "falmer-sports-complex",
+      "entranceType": "general",
+      "bearing": 226
+    },
+    {
+      "id": "osm-8655649935",
+      "type": "waypoint",
+      "lat": 50.8675736,
+      "lng": -0.0811233
+    },
+    {
+      "id": "osm-8898213156",
+      "type": "waypoint",
+      "lat": 50.8660026,
+      "lng": -0.0835243
+    },
+    {
+      "id": "osm-8846331922",
+      "type": "waypoint",
+      "lat": 50.8655407,
+      "lng": -0.0835649
+    },
+    {
+      "id": "osm-9278704697",
+      "type": "waypoint",
+      "lat": 50.8655187,
+      "lng": -0.0835572
+    },
+    {
+      "id": "osm-8846331921",
+      "type": "waypoint",
+      "lat": 50.8655303,
+      "lng": -0.083655
+    },
+    {
+      "id": "osm-9278704694",
+      "type": "waypoint",
+      "lat": 50.8655336,
+      "lng": -0.0836262
+    },
+    {
+      "id": "osm-5908438311",
+      "type": "waypoint",
+      "lat": 50.8659186,
+      "lng": -0.0848413
+    },
+    {
+      "id": "osm-8846331925",
+      "type": "waypoint",
+      "lat": 50.8659297,
+      "lng": -0.0847428
+    },
+    {
+      "id": "osm-8846331958",
+      "type": "waypoint",
+      "lat": 50.8646216,
+      "lng": -0.0840928
+    },
+    {
+      "id": "osm-8846331961",
+      "type": "waypoint",
+      "lat": 50.8646811,
+      "lng": -0.0840051
+    },
+    {
+      "id": "osm-3899850157",
+      "type": "entrance",
+      "lat": 50.8661491,
+      "lng": -0.0835535,
+      "building": "trafford-centre",
+      "entranceType": "general",
+      "bearing": 154
+    },
+    {
+      "id": "osm-8898225534",
+      "type": "entrance",
+      "lat": 50.8650145,
+      "lng": -0.0858225,
+      "building": "pevensey-ii",
+      "entranceType": "general",
+      "bearing": 196
+    },
+    {
+      "id": "osm-8898213172",
+      "type": "entrance",
+      "lat": 50.8654892,
+      "lng": -0.0856249,
+      "building": "pevensey-iii",
+      "entranceType": "general",
+      "bearing": 187
+    },
+    {
+      "id": "osm-8898213168",
+      "type": "waypoint",
+      "lat": 50.8655463,
+      "lng": -0.0856828
+    },
+    {
+      "id": "osm-8898213186",
+      "type": "entrance",
+      "lat": 50.8652891,
+      "lng": -0.0865989,
+      "building": "pevensey-i",
+      "entranceType": "general",
+      "bearing": 44
+    },
+    {
+      "id": "osm-7806242128",
+      "type": "waypoint",
+      "lat": 50.8661221,
+      "lng": -0.0896351
+    },
+    {
+      "id": "osm-8898225557",
+      "type": "entrance",
+      "lat": 50.865122,
+      "lng": -0.084799,
+      "building": "genome-damage-and-stability-centre-gdsc",
+      "entranceType": "general",
+      "bearing": 83
+    },
+    {
+      "id": "osm-8898225561",
+      "type": "waypoint",
+      "lat": 50.8651512,
+      "lng": -0.0847592
+    },
+    {
+      "id": "osm-8898225560",
+      "type": "entrance",
+      "lat": 50.8651468,
+      "lng": -0.0847977,
+      "building": "genome-damage-and-stability-centre-gdsc",
+      "entranceType": "general",
+      "bearing": 77
+    },
+    {
+      "id": "osm-8954994202",
+      "type": "waypoint",
+      "lat": 50.8661567,
+      "lng": -0.0825914
+    },
+    {
+      "id": "osm-5908438325",
+      "type": "entrance",
+      "lat": 50.8655677,
+      "lng": -0.083105,
+      "building": "aisin-seiki",
+      "entranceType": "general",
+      "bearing": 244
+    },
+    {
+      "id": "osm-8968803538",
+      "type": "waypoint",
+      "lat": 50.8655008,
+      "lng": -0.0831317
+    },
+    {
+      "id": "osm-9025415720",
+      "type": "waypoint",
+      "lat": 50.8666971,
+      "lng": -0.0892537
+    },
+    {
+      "id": "osm-9025430190",
+      "type": "waypoint",
+      "lat": 50.8674064,
+      "lng": -0.0875733
+    },
+    {
+      "id": "osm-9025430192",
+      "type": "waypoint",
+      "lat": 50.8674012,
+      "lng": -0.0876157
+    },
+    {
+      "id": "osm-9025467409",
+      "type": "waypoint",
+      "lat": 50.8669962,
+      "lng": -0.0855697
+    },
+    {
+      "id": "osm-9025462723",
+      "type": "waypoint",
+      "lat": 50.8661842,
+      "lng": -0.0865442
+    },
+    {
+      "id": "osm-9025462726",
+      "type": "waypoint",
+      "lat": 50.8661113,
+      "lng": -0.0865043
+    },
+    {
+      "id": "osm-5908438309",
+      "type": "entrance",
+      "lat": 50.866115,
+      "lng": -0.0864755,
+      "building": "arundel",
+      "entranceType": "general",
+      "bearing": 258
+    },
+    {
+      "id": "osm-5908438346",
+      "type": "waypoint",
+      "lat": 50.8653718,
+      "lng": -0.0855832
+    },
+    {
+      "id": "osm-9041730358",
+      "type": "entrance",
+      "lat": 50.8654617,
+      "lng": -0.0856186,
+      "building": "pevensey-iii",
+      "entranceType": "general",
+      "bearing": 186
+    },
+    {
+      "id": "osm-9041730367",
+      "type": "waypoint",
+      "lat": 50.8657149,
+      "lng": -0.0867527
+    },
+    {
+      "id": "osm-5908438362",
+      "type": "waypoint",
+      "lat": 50.866014,
+      "lng": -0.0896497
+    },
+    {
+      "id": "osm-4125653873",
+      "type": "entrance",
+      "lat": 50.866979,
+      "lng": -0.0889547,
+      "building": "arts-c",
+      "entranceType": "general",
+      "bearing": 45
+    },
+    {
+      "id": "osm-9149522810",
+      "type": "waypoint",
+      "lat": 50.8661408,
+      "lng": -0.0852395
+    },
+    {
+      "id": "osm-9152776125",
+      "type": "entrance",
+      "lat": 50.8643797,
+      "lng": -0.0841179,
+      "building": "john-maynard-smith-jms",
+      "entranceType": "general",
+      "bearing": 108
+    },
+    {
+      "id": "osm-9152776126",
+      "type": "entrance",
+      "lat": 50.8643959,
+      "lng": -0.0839489,
+      "building": "centre-for-research-perception-and-cognition-crpc",
+      "entranceType": "general",
+      "bearing": 247
+    },
+    {
+      "id": "osm-9152776132",
+      "type": "entrance",
+      "lat": 50.8644648,
+      "lng": -0.083572,
+      "building": "centre-for-research-perception-and-cognition-crpc",
+      "entranceType": "general",
+      "bearing": 81
+    },
+    {
+      "id": "osm-9152776133",
+      "type": "waypoint",
+      "lat": 50.8644955,
+      "lng": -0.0834111
+    },
+    {
+      "id": "osm-9152776134",
+      "type": "waypoint",
+      "lat": 50.8645007,
+      "lng": -0.0833663
+    },
+    {
+      "id": "osm-1802625863",
+      "type": "waypoint",
+      "lat": 50.8639734,
+      "lng": -0.0860003
+    },
+    {
+      "id": "osm-9152750623",
+      "type": "waypoint",
+      "lat": 50.8640316,
+      "lng": -0.0855969
+    },
+    {
+      "id": "osm-9153132234",
+      "type": "entrance",
+      "lat": 50.8665021,
+      "lng": -0.0837529,
+      "building": "trafford-centre",
+      "entranceType": "general",
+      "bearing": 345
+    },
+    {
+      "id": "osm-9175304863",
+      "type": "waypoint",
+      "lat": 50.8650338,
+      "lng": -0.0837368
+    },
+    {
+      "id": "osm-9175304864",
+      "type": "entrance",
+      "lat": 50.8649447,
+      "lng": -0.0837578,
+      "building": "biomedical-research-facility",
+      "entranceType": "general",
+      "bearing": 55
+    },
+    {
+      "id": "osm-9175304937",
+      "type": "waypoint",
+      "lat": 50.8646959,
+      "lng": -0.0841859
+    },
+    {
+      "id": "osm-9277639507",
+      "type": "entrance",
+      "lat": 50.8646901,
+      "lng": -0.0840051,
+      "building": "biomedical-research-facility",
+      "entranceType": "general",
+      "bearing": 186
+    },
+    {
+      "id": "osm-9277639508",
+      "type": "waypoint",
+      "lat": 50.8646692,
+      "lng": -0.0841766
+    },
+    {
+      "id": "osm-9277713014",
+      "type": "waypoint",
+      "lat": 50.8661646,
+      "lng": -0.083748
+    },
+    {
+      "id": "osm-6478054768",
+      "type": "entrance",
+      "lat": 50.8660217,
+      "lng": -0.083272,
+      "building": "clinical-imaging-sciences-centre-cisc",
+      "entranceType": "general",
+      "bearing": 318
+    },
+    {
+      "id": "osm-9278704696",
+      "type": "entrance",
+      "lat": 50.8664005,
+      "lng": -0.0837379,
+      "building": "trafford-centre",
+      "entranceType": "general",
+      "bearing": 336
+    },
+    {
+      "id": "osm-5908438324",
+      "type": "entrance",
+      "lat": 50.8655218,
+      "lng": -0.0835379,
+      "building": "thermo-fluid-mechanics-research-centre-tfmrc",
+      "entranceType": "general",
+      "bearing": 236
+    },
+    {
+      "id": "osm-9312484678",
+      "type": "entrance",
+      "lat": 50.8640814,
+      "lng": -0.0826421,
+      "building": "sussex-innovation-centre",
+      "entranceType": "general",
+      "bearing": 154
+    },
+    {
+      "id": "osm-9312484679",
+      "type": "waypoint",
+      "lat": 50.8640656,
+      "lng": -0.0825185
+    },
+    {
+      "id": "osm-9312484682",
+      "type": "waypoint",
+      "lat": 50.8642073,
+      "lng": -0.0841681
+    },
+    {
+      "id": "osm-9312484683",
+      "type": "entrance",
+      "lat": 50.864069,
+      "lng": -0.0841271,
+      "building": "old-ancillary-building",
+      "entranceType": "general",
+      "bearing": 211
+    },
+    {
+      "id": "osm-9312484701",
+      "type": "waypoint",
+      "lat": 50.8668823,
+      "lng": -0.0900028
+    },
+    {
+      "id": "osm-9312484702",
+      "type": "entrance",
+      "lat": 50.8668702,
+      "lng": -0.0899979,
+      "building": "silverstone",
+      "entranceType": "general",
+      "bearing": 313
+    },
+    {
+      "id": "osm-9464268517",
+      "type": "entrance",
+      "lat": 50.8650456,
+      "lng": -0.0830703,
+      "building": "ashdown-house",
+      "entranceType": "general",
+      "bearing": 241
+    },
+    {
+      "id": "osm-9469513440",
+      "type": "waypoint",
+      "lat": 50.8673972,
+      "lng": -0.0869713
+    },
+    {
+      "id": "osm-2550704950",
+      "type": "waypoint",
+      "lat": 50.8722864,
+      "lng": -0.0885684
+    },
+    {
+      "id": "osm-2550704948",
+      "type": "waypoint",
+      "lat": 50.8723502,
+      "lng": -0.0889352
+    },
+    {
+      "id": "merged-mn4u9bnu",
+      "type": "waypoint",
+      "lat": 50.8644889,
+      "lng": -0.0892233
+    },
+    {
+      "id": "merged-mn4u9hst",
+      "type": "waypoint",
+      "lat": 50.8645982,
+      "lng": -0.0893327
+    },
+    {
+      "id": "merged-mn4ua4tc",
+      "type": "waypoint",
+      "lat": 50.863588,
+      "lng": -0.0899341
+    },
+    {
+      "id": "merged-mn4uauc2",
+      "type": "waypoint",
+      "lat": 50.8632766,
+      "lng": -0.0891005
+    },
+    {
+      "id": "merged-mn4ub4uy",
+      "type": "waypoint",
+      "lat": 50.8637415,
+      "lng": -0.0886899
+    },
+    {
+      "id": "merged-mn4ub8fr",
+      "type": "waypoint",
+      "lat": 50.8636104,
+      "lng": -0.0881991
+    },
+    {
+      "id": "merged-mn4ubiu1",
+      "type": "waypoint",
+      "lat": 50.8639838,
+      "lng": -0.0875385
+    },
+    {
+      "id": "merged-mn5ygc6b",
+      "type": "waypoint",
+      "lat": 50.8656546,
+      "lng": -0.0838473
+    },
+    {
+      "id": "merged-mn5ygk0y",
+      "type": "waypoint",
+      "lat": 50.8654327,
+      "lng": -0.0845754
+    },
+    {
+      "id": "merged-mn5ygosb",
+      "type": "waypoint",
+      "lat": 50.8658221,
+      "lng": -0.0846827
+    },
+    {
+      "id": "merged-mn60vtki",
+      "type": "waypoint",
+      "lat": 50.8718651,
+      "lng": -0.090664
+    },
+    {
+      "id": "merged-mn60vvtn",
+      "type": "waypoint",
+      "lat": 50.8720462,
+      "lng": -0.0901437
+    },
+    {
+      "id": "merged-mn60wxyq",
+      "type": "waypoint",
+      "lat": 50.8728108,
+      "lng": -0.0886294
+    },
+    {
+      "id": "merged-mn60xkf3",
+      "type": "waypoint",
+      "lat": 50.8727495,
+      "lng": -0.0883027
+    },
+    {
+      "id": "merged-mn60yo8g",
+      "type": "waypoint",
+      "lat": 50.8710019,
+      "lng": -0.0897872
+    },
+    {
+      "id": "merged-mn60yrqh",
+      "type": "waypoint",
+      "lat": 50.8706379,
+      "lng": -0.0900954
+    },
+    {
+      "id": "merged-mn60z16w",
+      "type": "waypoint",
+      "lat": 50.8703755,
+      "lng": -0.0892183
+    },
+    {
+      "id": "merged-mn60zauk",
+      "type": "waypoint",
+      "lat": 50.8706541,
+      "lng": -0.0890204
+    },
+    {
+      "id": "merged-mn60zhi9",
+      "type": "waypoint",
+      "lat": 50.8701405,
+      "lng": -0.0886074
+    },
+    {
+      "id": "n-mn611n65",
+      "type": "waypoint",
+      "lat": 50.8714621,
+      "lng": -0.0872496
+    },
+    {
+      "id": "n-mn611o1e",
+      "type": "waypoint",
+      "lat": 50.8711759,
+      "lng": -0.0870913
+    },
+    {
+      "id": "n-mn611pub",
+      "type": "waypoint",
+      "lat": 50.8702818,
+      "lng": -0.0868365
+    },
+    {
+      "id": "n-mn611qn8",
+      "type": "waypoint",
+      "lat": 50.8703004,
+      "lng": -0.0865844
+    },
+    {
+      "id": "n-mn6138iy",
+      "type": "waypoint",
+      "lat": 50.8697781,
+      "lng": -0.0878155
+    },
+    {
+      "id": "merged-mn66gitq",
+      "type": "waypoint",
+      "lat": 50.8673248,
+      "lng": -0.0885693
+    },
+    {
+      "id": "merged-mn66hedp",
+      "type": "waypoint",
+      "lat": 50.8672868,
+      "lng": -0.0889005
+    },
+    {
+      "id": "merged-mn66invj",
+      "type": "waypoint",
+      "lat": 50.8660709,
+      "lng": -0.0899801
+    },
+    {
+      "id": "merged-mn66j0eg",
+      "type": "waypoint",
+      "lat": 50.866317,
+      "lng": -0.0890743
+    },
+    {
+      "id": "merged-mn66j1wb",
+      "type": "waypoint",
+      "lat": 50.8663485,
+      "lng": -0.088816
+    },
+    {
+      "id": "merged-mn66j58g",
+      "type": "waypoint",
+      "lat": 50.8660921,
+      "lng": -0.088734
+    },
+    {
+      "id": "merged-mn66jhpr",
+      "type": "waypoint",
+      "lat": 50.8661149,
+      "lng": -0.0890064
+    },
+    {
+      "id": "merged-mn66k57x",
+      "type": "waypoint",
+      "lat": 50.8660014,
+      "lng": -0.088478
+    },
+    {
+      "id": "merged-mn66l38c",
+      "type": "waypoint",
+      "lat": 50.8658286,
+      "lng": -0.0889171
+    },
+    {
+      "id": "merged-mn66llop",
+      "type": "waypoint",
+      "lat": 50.865303,
+      "lng": -0.0892579
+    },
+    {
+      "id": "merged-mn66lqpd",
+      "type": "waypoint",
+      "lat": 50.8658524,
+      "lng": -0.089405
+    },
+    {
+      "id": "merged-mn66mzx8",
+      "type": "waypoint",
+      "lat": 50.8640037,
+      "lng": -0.0872297
+    },
+    {
+      "id": "merged-mn66n1v1",
+      "type": "waypoint",
+      "lat": 50.8640394,
+      "lng": -0.0870189
+    },
+    {
+      "id": "n-mn66ogpw",
+      "type": "waypoint",
+      "lat": 50.8646231,
+      "lng": -0.0859916
+    },
+    {
+      "id": "n-mn66oh65",
+      "type": "waypoint",
+      "lat": 50.8646231,
+      "lng": -0.0859568
+    },
+    {
+      "id": "n-mn66oi6a",
+      "type": "waypoint",
+      "lat": 50.8645181,
+      "lng": -0.0859246
+    },
+    {
+      "id": "merged-mn66oumr",
+      "type": "waypoint",
+      "lat": 50.864136,
+      "lng": -0.0848035
+    },
+    {
+      "id": "merged-mn66ow6b",
+      "type": "waypoint",
+      "lat": 50.8641238,
+      "lng": -0.084903
+    },
+    {
+      "id": "merged-mn66z03o",
+      "type": "waypoint",
+      "lat": 50.8665454,
+      "lng": -0.0867011
+    },
+    {
+      "id": "merged-mn66z1lw",
+      "type": "waypoint",
+      "lat": 50.866433,
+      "lng": -0.0866629
+    },
+    {
+      "id": "merged-mn66z83g",
+      "type": "waypoint",
+      "lat": 50.8676226,
+      "lng": -0.0860526
+    },
+    {
+      "id": "merged-mn66zb7h",
+      "type": "entrance",
+      "lat": 50.8674785,
+      "lng": -0.0870318,
+      "building": "fulton",
+      "entranceType": "general",
+      "bearing": 35
+    },
+    {
+      "id": "merged-mn66zi6t",
+      "type": "entrance",
+      "lat": 50.8675684,
+      "lng": -0.0867658,
+      "building": "east-slope-lullington",
+      "entranceType": "general",
+      "bearing": 178
+    },
+    {
+      "id": "merged-mn66zjrj",
+      "type": "waypoint",
+      "lat": 50.8675953,
+      "lng": -0.0865048
+    },
+    {
+      "id": "merged-mn670iqz",
+      "type": "waypoint",
+      "lat": 50.8681586,
+      "lng": -0.0855171
+    },
+    {
+      "id": "merged-mn671l5h",
+      "type": "waypoint",
+      "lat": 50.8663434,
+      "lng": -0.087837
+    },
+    {
+      "id": "merged-mn67230k",
+      "type": "waypoint",
+      "lat": 50.8648716,
+      "lng": -0.0835728
+    },
+    {
+      "id": "merged-mn67265n",
+      "type": "entrance",
+      "lat": 50.8649518,
+      "lng": -0.08246,
+      "building": "freeman",
+      "entranceType": "general",
+      "bearing": 287
+    },
+    {
+      "id": "merged-mn6729nn",
+      "type": "waypoint",
+      "lat": 50.8652979,
+      "lng": -0.0824468
+    },
+    {
+      "id": "merged-mn672bzv",
+      "type": "waypoint",
+      "lat": 50.8662719,
+      "lng": -0.0830548
+    },
+    {
+      "id": "merged-mn672fdp",
+      "type": "waypoint",
+      "lat": 50.866219,
+      "lng": -0.084005
+    },
+    {
+      "id": "merged-mn672hcd",
+      "type": "waypoint",
+      "lat": 50.8662854,
+      "lng": -0.0838996
+    },
+    {
+      "id": "merged-mn673acv",
+      "type": "waypoint",
+      "lat": 50.8653973,
+      "lng": -0.0875787
+    },
+    {
+      "id": "merged-mn673cme",
+      "type": "waypoint",
+      "lat": 50.8653123,
+      "lng": -0.0882402
+    },
+    {
+      "id": "n-mn67599k",
+      "type": "waypoint",
+      "lat": 50.8676737,
+      "lng": -0.0855678
+    }
+  ],
+  "edges": [
+    {
+      "from": "osm-5204197363",
+      "to": "osm-3900032482"
+    },
+    {
+      "from": "osm-3900032482",
+      "to": "osm-6781270637"
+    },
+    {
+      "from": "osm-6061196911",
+      "to": "osm-6061196912"
+    },
+    {
+      "from": "osm-6061196912",
+      "to": "osm-5908438338"
+    },
+    {
+      "from": "osm-5908438338",
+      "to": "osm-4128450516"
+    },
+    {
+      "from": "osm-4128450516",
+      "to": "osm-3900072338"
+    },
+    {
+      "from": "osm-177090193",
+      "to": "osm-3764497539"
+    },
+    {
+      "from": "osm-3764497539",
+      "to": "osm-1440084393"
+    },
+    {
+      "from": "osm-176982206",
+      "to": "osm-5200817429"
+    },
+    {
+      "from": "osm-5200817429",
+      "to": "osm-5204197393"
+    },
+    {
+      "from": "osm-5204197393",
+      "to": "osm-6357210186"
+    },
+    {
+      "from": "osm-6357210186",
+      "to": "osm-7776324505"
+    },
+    {
+      "from": "osm-7776324505",
+      "to": "osm-7776324503"
+    },
+    {
+      "from": "osm-7776324503",
+      "to": "osm-1192925750"
+    },
+    {
+      "from": "osm-1192925750",
+      "to": "osm-5204197372"
+    },
+    {
+      "from": "osm-5204197372",
+      "to": "osm-6357210206"
+    },
+    {
+      "from": "osm-1268239999",
+      "to": "osm-9695415569"
+    },
+    {
+      "from": "osm-9695415569",
+      "to": "osm-1268243742"
+    },
+    {
+      "from": "osm-1268243742",
+      "to": "osm-177091095"
+    },
+    {
+      "from": "osm-177091095",
+      "to": "osm-9695415561"
+    },
+    {
+      "from": "osm-9695415561",
+      "to": "osm-7806994336"
+    },
+    {
+      "from": "osm-7806994336",
+      "to": "osm-8518121981"
+    },
+    {
+      "from": "osm-8518121981",
+      "to": "osm-9695415570"
+    },
+    {
+      "from": "osm-177094750",
+      "to": "osm-8955022339"
+    },
+    {
+      "from": "osm-6357210206",
+      "to": "osm-7776324493"
+    },
+    {
+      "from": "osm-7776324493",
+      "to": "osm-177094750"
+    },
+    {
+      "from": "osm-177099329",
+      "to": "osm-5908438327"
+    },
+    {
+      "from": "osm-5908438327",
+      "to": "osm-8846331920"
+    },
+    {
+      "from": "osm-8846331920",
+      "to": "osm-1919818219"
+    },
+    {
+      "from": "osm-1919818219",
+      "to": "osm-1919818221"
+    },
+    {
+      "from": "osm-1919818221",
+      "to": "osm-177099330"
+    },
+    {
+      "from": "osm-5352538895",
+      "to": "osm-3899821813"
+    },
+    {
+      "from": "osm-3748536044",
+      "to": "osm-4125606709"
+    },
+    {
+      "from": "osm-4125606709",
+      "to": "osm-8898213201"
+    },
+    {
+      "from": "osm-8898213201",
+      "to": "osm-1192917634"
+    },
+    {
+      "from": "osm-1192917634",
+      "to": "osm-3764497506"
+    },
+    {
+      "from": "osm-3900003942",
+      "to": "osm-7640481399"
+    },
+    {
+      "from": "osm-3056257473",
+      "to": "osm-7640451072"
+    },
+    {
+      "from": "osm-7640451072",
+      "to": "osm-7640481389"
+    },
+    {
+      "from": "osm-7640481389",
+      "to": "osm-7640481475"
+    },
+    {
+      "from": "osm-7640481475",
+      "to": "osm-3900003942"
+    },
+    {
+      "from": "osm-1268239999",
+      "to": "osm-5908301713"
+    },
+    {
+      "from": "osm-5908301713",
+      "to": "osm-2561691945"
+    },
+    {
+      "from": "osm-2561691945",
+      "to": "osm-7806994285"
+    },
+    {
+      "from": "osm-7806994285",
+      "to": "osm-1268240003"
+    },
+    {
+      "from": "osm-1268240003",
+      "to": "osm-1268239961"
+    },
+    {
+      "from": "osm-1268240003",
+      "to": "osm-3899942118"
+    },
+    {
+      "from": "osm-177094750",
+      "to": "osm-7596884283"
+    },
+    {
+      "from": "osm-7596884283",
+      "to": "osm-1436182627"
+    },
+    {
+      "from": "osm-1436182627",
+      "to": "osm-8898213151"
+    },
+    {
+      "from": "osm-8898213151",
+      "to": "osm-6511816647"
+    },
+    {
+      "from": "osm-6511816647",
+      "to": "osm-11982886630"
+    },
+    {
+      "from": "osm-11982886630",
+      "to": "osm-5200797717"
+    },
+    {
+      "from": "osm-5200797717",
+      "to": "osm-5200797723"
+    },
+    {
+      "from": "osm-1439685287",
+      "to": "osm-7777674160"
+    },
+    {
+      "from": "osm-7777674160",
+      "to": "osm-1439685285"
+    },
+    {
+      "from": "osm-7777674161",
+      "to": "osm-3764497537"
+    },
+    {
+      "from": "osm-3748536041",
+      "to": "osm-7810171237"
+    },
+    {
+      "from": "osm-7810171237",
+      "to": "osm-5204197387"
+    },
+    {
+      "from": "osm-5204197387",
+      "to": "osm-5204197380"
+    },
+    {
+      "from": "osm-1440084393",
+      "to": "osm-1440084392"
+    },
+    {
+      "from": "osm-1440084392",
+      "to": "osm-4125653882"
+    },
+    {
+      "from": "osm-4125653882",
+      "to": "osm-7776397142"
+    },
+    {
+      "from": "osm-7776397142",
+      "to": "osm-3899942084"
+    },
+    {
+      "from": "osm-1802625926",
+      "to": "osm-8898225517"
+    },
+    {
+      "from": "osm-8898225517",
+      "to": "osm-6297959833"
+    },
+    {
+      "from": "osm-1802625906",
+      "to": "osm-6061197689"
+    },
+    {
+      "from": "osm-1919818219",
+      "to": "osm-7821236123"
+    },
+    {
+      "from": "osm-7821236123",
+      "to": "osm-7821236122"
+    },
+    {
+      "from": "osm-7821236122",
+      "to": "osm-1919818224"
+    },
+    {
+      "from": "osm-3900154855",
+      "to": "osm-5200797749"
+    },
+    {
+      "from": "osm-5200797749",
+      "to": "osm-2550701895"
+    },
+    {
+      "from": "osm-2550701895",
+      "to": "osm-3900166828"
+    },
+    {
+      "from": "osm-3900166828",
+      "to": "osm-6914393337"
+    },
+    {
+      "from": "osm-6914393337",
+      "to": "osm-5200797746"
+    },
+    {
+      "from": "osm-5200797746",
+      "to": "osm-3900166823"
+    },
+    {
+      "from": "osm-3900166823",
+      "to": "osm-3900166824"
+    },
+    {
+      "from": "osm-3900166824",
+      "to": "osm-3900166825"
+    },
+    {
+      "from": "osm-3900166825",
+      "to": "osm-5351403618"
+    },
+    {
+      "from": "osm-5351403618",
+      "to": "osm-7821212299"
+    },
+    {
+      "from": "osm-7821212299",
+      "to": "osm-7667359803"
+    },
+    {
+      "from": "osm-7667359803",
+      "to": "osm-3900168808"
+    },
+    {
+      "from": "osm-2550704940",
+      "to": "osm-5200797771"
+    },
+    {
+      "from": "osm-5200797771",
+      "to": "osm-7667764934"
+    },
+    {
+      "from": "osm-7667764934",
+      "to": "osm-5200797765"
+    },
+    {
+      "from": "osm-5200797765",
+      "to": "osm-3900167221"
+    },
+    {
+      "from": "osm-3900167221",
+      "to": "osm-7667764920"
+    },
+    {
+      "from": "osm-7667764920",
+      "to": "osm-5200797772"
+    },
+    {
+      "from": "osm-5200797772",
+      "to": "osm-7667764930"
+    },
+    {
+      "from": "osm-7667764930",
+      "to": "osm-2550704957"
+    },
+    {
+      "from": "osm-2550704957",
+      "to": "osm-5200797822"
+    },
+    {
+      "from": "osm-5200797822",
+      "to": "osm-5200797821"
+    },
+    {
+      "from": "osm-5200797821",
+      "to": "osm-3900168760"
+    },
+    {
+      "from": "osm-3900168760",
+      "to": "osm-3900168761"
+    },
+    {
+      "from": "osm-3900168761",
+      "to": "osm-3900168762"
+    },
+    {
+      "from": "osm-3900168762",
+      "to": "osm-7667704381"
+    },
+    {
+      "from": "osm-7667704381",
+      "to": "osm-7667704379"
+    },
+    {
+      "from": "osm-7667704379",
+      "to": "osm-3900168774"
+    },
+    {
+      "from": "osm-3900168774",
+      "to": "osm-3900168775"
+    },
+    {
+      "from": "osm-3900168775",
+      "to": "osm-7667359836"
+    },
+    {
+      "from": "osm-2561691953",
+      "to": "osm-3764497498"
+    },
+    {
+      "from": "osm-3899942109",
+      "to": "osm-2561691955"
+    },
+    {
+      "from": "osm-2561691957",
+      "to": "osm-7806946770"
+    },
+    {
+      "from": "osm-2561691945",
+      "to": "osm-7777674159"
+    },
+    {
+      "from": "osm-7777674159",
+      "to": "osm-7777674155"
+    },
+    {
+      "from": "osm-7777674155",
+      "to": "osm-7806946779"
+    },
+    {
+      "from": "osm-6504506275",
+      "to": "osm-1439685285"
+    },
+    {
+      "from": "osm-3764497510",
+      "to": "osm-3764497506"
+    },
+    {
+      "from": "osm-3748536044",
+      "to": "osm-3748536045"
+    },
+    {
+      "from": "osm-3748536045",
+      "to": "osm-3748536046"
+    },
+    {
+      "from": "osm-3764497498",
+      "to": "osm-3764497497"
+    },
+    {
+      "from": "osm-3764497497",
+      "to": "osm-3764497499"
+    },
+    {
+      "from": "osm-3764497500",
+      "to": "osm-4125659300"
+    },
+    {
+      "from": "osm-4125659300",
+      "to": "osm-3764497501"
+    },
+    {
+      "from": "osm-3764497501",
+      "to": "osm-3764497502"
+    },
+    {
+      "from": "osm-3764497506",
+      "to": "osm-4125606712"
+    },
+    {
+      "from": "osm-3764497508",
+      "to": "osm-5908438357"
+    },
+    {
+      "from": "osm-5908438357",
+      "to": "osm-3764497509"
+    },
+    {
+      "from": "osm-3764497509",
+      "to": "osm-3764497510"
+    },
+    {
+      "from": "osm-3764497510",
+      "to": "osm-7810171237"
+    },
+    {
+      "from": "osm-3826174281",
+      "to": "osm-5204208821"
+    },
+    {
+      "from": "osm-7810411078",
+      "to": "osm-5169457523"
+    },
+    {
+      "from": "osm-5169457523",
+      "to": "osm-3826174281"
+    },
+    {
+      "from": "osm-3826174284",
+      "to": "osm-5169457418"
+    },
+    {
+      "from": "osm-5169457418",
+      "to": "osm-3826174283"
+    },
+    {
+      "from": "osm-3826174283",
+      "to": "osm-7810411078"
+    },
+    {
+      "from": "osm-3899821826",
+      "to": "osm-1919818221"
+    },
+    {
+      "from": "osm-3899821831",
+      "to": "osm-5891556313"
+    },
+    {
+      "from": "osm-5891556313",
+      "to": "osm-1919818224"
+    },
+    {
+      "from": "osm-3899849413",
+      "to": "osm-3899849415"
+    },
+    {
+      "from": "osm-3899849415",
+      "to": "osm-10576746891"
+    },
+    {
+      "from": "osm-3899849415",
+      "to": "osm-3899821813"
+    },
+    {
+      "from": "osm-177099330",
+      "to": "osm-3899849427"
+    },
+    {
+      "from": "osm-3899849427",
+      "to": "osm-3899849425"
+    },
+    {
+      "from": "osm-3899849425",
+      "to": "osm-3899849417"
+    },
+    {
+      "from": "osm-3899849417",
+      "to": "osm-3899849432"
+    },
+    {
+      "from": "osm-3899849432",
+      "to": "osm-9153132240"
+    },
+    {
+      "from": "osm-9153132240",
+      "to": "osm-3899849416"
+    },
+    {
+      "from": "osm-3899849416",
+      "to": "osm-5244452075"
+    },
+    {
+      "from": "osm-5244452075",
+      "to": "osm-8898225559"
+    },
+    {
+      "from": "osm-8898225559",
+      "to": "osm-8898225558"
+    },
+    {
+      "from": "osm-8898225558",
+      "to": "osm-7822706759"
+    },
+    {
+      "from": "osm-3899849418",
+      "to": "osm-3899849417"
+    },
+    {
+      "from": "osm-3899849431",
+      "to": "osm-3899849432"
+    },
+    {
+      "from": "osm-3899849455",
+      "to": "osm-3899849448"
+    },
+    {
+      "from": "osm-3899849448",
+      "to": "osm-3899849453"
+    },
+    {
+      "from": "osm-3899849455",
+      "to": "osm-3899849456"
+    },
+    {
+      "from": "osm-3899849456",
+      "to": "osm-9277713012"
+    },
+    {
+      "from": "osm-9277713012",
+      "to": "osm-6478054782"
+    },
+    {
+      "from": "osm-1802625926",
+      "to": "osm-1802625924"
+    },
+    {
+      "from": "osm-1802625924",
+      "to": "osm-1802625927"
+    },
+    {
+      "from": "osm-1802625927",
+      "to": "osm-5734094402"
+    },
+    {
+      "from": "osm-3899942084",
+      "to": "osm-3899942085"
+    },
+    {
+      "from": "osm-3899942109",
+      "to": "osm-3899942104"
+    },
+    {
+      "from": "osm-5204197363",
+      "to": "osm-3900032483"
+    },
+    {
+      "from": "osm-1802625884",
+      "to": "osm-3900032526"
+    },
+    {
+      "from": "osm-3900032526",
+      "to": "osm-3900032529"
+    },
+    {
+      "from": "osm-3900032526",
+      "to": "osm-3900032530"
+    },
+    {
+      "from": "osm-3900072323",
+      "to": "osm-3900072322"
+    },
+    {
+      "from": "osm-3900072322",
+      "to": "osm-7810560439"
+    },
+    {
+      "from": "osm-7810560439",
+      "to": "osm-6061197707"
+    },
+    {
+      "from": "osm-6061197707",
+      "to": "osm-6061197708"
+    },
+    {
+      "from": "osm-6061197708",
+      "to": "osm-5414818665"
+    },
+    {
+      "from": "osm-5414818665",
+      "to": "osm-5204197382"
+    },
+    {
+      "from": "osm-5204197382",
+      "to": "osm-8846332065"
+    },
+    {
+      "from": "osm-8846332065",
+      "to": "osm-5204197390"
+    },
+    {
+      "from": "osm-5204197390",
+      "to": "osm-176982206"
+    },
+    {
+      "from": "osm-3900072338",
+      "to": "osm-6061197698"
+    },
+    {
+      "from": "osm-6061197698",
+      "to": "osm-3900072337"
+    },
+    {
+      "from": "osm-3900072337",
+      "to": "osm-5908438352"
+    },
+    {
+      "from": "osm-5908438352",
+      "to": "osm-8898213187"
+    },
+    {
+      "from": "osm-8898213187",
+      "to": "osm-1192917624"
+    },
+    {
+      "from": "osm-1192917624",
+      "to": "osm-5169457407"
+    },
+    {
+      "from": "osm-5169457407",
+      "to": "osm-3900072323"
+    },
+    {
+      "from": "osm-7667842910",
+      "to": "osm-3900155840"
+    },
+    {
+      "from": "osm-4467839978",
+      "to": "osm-7667842901"
+    },
+    {
+      "from": "osm-7667842901",
+      "to": "osm-3900155846"
+    },
+    {
+      "from": "osm-3900167221",
+      "to": "osm-8446780675"
+    },
+    {
+      "from": "osm-8446780675",
+      "to": "osm-7058095991"
+    },
+    {
+      "from": "osm-3748536045",
+      "to": "osm-4125606726"
+    },
+    {
+      "from": "osm-4125606726",
+      "to": "osm-7810411047"
+    },
+    {
+      "from": "osm-7810411047",
+      "to": "osm-5204205113"
+    },
+    {
+      "from": "osm-5204205113",
+      "to": "osm-5169457415"
+    },
+    {
+      "from": "osm-5169457415",
+      "to": "osm-4125606725"
+    },
+    {
+      "from": "osm-7810411060",
+      "to": "osm-4125606726"
+    },
+    {
+      "from": "osm-9025415719",
+      "to": "osm-7806946764"
+    },
+    {
+      "from": "osm-4125653874",
+      "to": "osm-9140619560"
+    },
+    {
+      "from": "osm-4128454486",
+      "to": "osm-7776188970"
+    },
+    {
+      "from": "osm-6061196903",
+      "to": "osm-4128450516"
+    },
+    {
+      "from": "osm-7821212291",
+      "to": "osm-2550701895"
+    },
+    {
+      "from": "osm-176982206",
+      "to": "osm-177090193"
+    },
+    {
+      "from": "osm-4738877915",
+      "to": "osm-4738878624"
+    },
+    {
+      "from": "osm-5128823527",
+      "to": "osm-7822706756"
+    },
+    {
+      "from": "osm-5138558081",
+      "to": "osm-3138528670"
+    },
+    {
+      "from": "osm-9041730366",
+      "to": "osm-5169457407"
+    },
+    {
+      "from": "osm-5169457418",
+      "to": "osm-5169457419"
+    },
+    {
+      "from": "osm-5169457418",
+      "to": "osm-7776306719"
+    },
+    {
+      "from": "osm-7776306719",
+      "to": "osm-5169457521"
+    },
+    {
+      "from": "osm-5169457521",
+      "to": "osm-5169457420"
+    },
+    {
+      "from": "osm-5169457521",
+      "to": "osm-5204205112"
+    },
+    {
+      "from": "osm-5204205112",
+      "to": "osm-5908438353"
+    },
+    {
+      "from": "osm-5908438353",
+      "to": "osm-5169457522"
+    },
+    {
+      "from": "osm-5169457522",
+      "to": "osm-5169457523"
+    },
+    {
+      "from": "osm-2550704940",
+      "to": "osm-2550704957"
+    },
+    {
+      "from": "osm-9469334108",
+      "to": "osm-9469334107"
+    },
+    {
+      "from": "osm-9469334107",
+      "to": "osm-5200817429"
+    },
+    {
+      "from": "osm-5204197357",
+      "to": "osm-7822706762"
+    },
+    {
+      "from": "osm-7822706762",
+      "to": "osm-5204197358"
+    },
+    {
+      "from": "osm-5204197361",
+      "to": "osm-5204197358"
+    },
+    {
+      "from": "osm-5204197372",
+      "to": "osm-5204197377"
+    },
+    {
+      "from": "osm-5204197377",
+      "to": "osm-5204197376"
+    },
+    {
+      "from": "osm-5244452094",
+      "to": "osm-5169457411"
+    },
+    {
+      "from": "osm-5204197382",
+      "to": "osm-7810560445"
+    },
+    {
+      "from": "osm-7810596081",
+      "to": "osm-5204197385"
+    },
+    {
+      "from": "osm-5204197386",
+      "to": "osm-7399065380"
+    },
+    {
+      "from": "osm-7399065380",
+      "to": "osm-5204197387"
+    },
+    {
+      "from": "osm-5204197393",
+      "to": "osm-9675728265"
+    },
+    {
+      "from": "osm-9675728265",
+      "to": "osm-5204197394"
+    },
+    {
+      "from": "osm-5204197400",
+      "to": "osm-5204197401"
+    },
+    {
+      "from": "osm-1439685276",
+      "to": "osm-7776188962"
+    },
+    {
+      "from": "osm-7776188962",
+      "to": "osm-5204205116"
+    },
+    {
+      "from": "osm-5204205116",
+      "to": "osm-6747231702"
+    },
+    {
+      "from": "osm-5204205113",
+      "to": "osm-5204205120"
+    },
+    {
+      "from": "osm-5204205120",
+      "to": "osm-5204205116"
+    },
+    {
+      "from": "osm-5204205116",
+      "to": "osm-7776188954"
+    },
+    {
+      "from": "osm-7776188954",
+      "to": "osm-7776188920"
+    },
+    {
+      "from": "osm-5169457420",
+      "to": "osm-5204205120"
+    },
+    {
+      "from": "osm-5204208821",
+      "to": "osm-6061196968"
+    },
+    {
+      "from": "osm-3900032529",
+      "to": "osm-9152776135"
+    },
+    {
+      "from": "osm-9152776135",
+      "to": "osm-9152776130"
+    },
+    {
+      "from": "osm-5244452094",
+      "to": "osm-5244452095"
+    },
+    {
+      "from": "osm-3899849431",
+      "to": "osm-9153132239"
+    },
+    {
+      "from": "osm-9153132239",
+      "to": "osm-3899849429"
+    },
+    {
+      "from": "osm-9025462724",
+      "to": "osm-9025462725"
+    },
+    {
+      "from": "osm-8846332060",
+      "to": "osm-8846331926"
+    },
+    {
+      "from": "osm-8846331926",
+      "to": "osm-8846331927"
+    },
+    {
+      "from": "osm-7399065377",
+      "to": "osm-5414818671"
+    },
+    {
+      "from": "osm-1802625927",
+      "to": "osm-5700420823"
+    },
+    {
+      "from": "osm-5700420823",
+      "to": "osm-5700420820"
+    },
+    {
+      "from": "osm-177099329",
+      "to": "osm-5709159939"
+    },
+    {
+      "from": "osm-5891556308",
+      "to": "osm-9175304948"
+    },
+    {
+      "from": "osm-5891556312",
+      "to": "osm-5891556313"
+    },
+    {
+      "from": "osm-5908301713",
+      "to": "osm-5169457414"
+    },
+    {
+      "from": "osm-3764497499",
+      "to": "osm-3764497500",
+      "type": "path"
+    },
+    {
+      "from": "osm-9469334104",
+      "to": "osm-9469334107"
+    },
+    {
+      "from": "osm-5204197371",
+      "to": "osm-5908438310"
+    },
+    {
+      "from": "osm-5204197370",
+      "to": "osm-8846331923"
+    },
+    {
+      "from": "osm-5908438319",
+      "to": "osm-5908438321"
+    },
+    {
+      "from": "osm-8968803537",
+      "to": "osm-5908438327"
+    },
+    {
+      "from": "osm-5908438341",
+      "to": "osm-5908438336"
+    },
+    {
+      "from": "osm-5908438344",
+      "to": "osm-5908438350"
+    },
+    {
+      "from": "osm-5908438350",
+      "to": "osm-9152762934"
+    },
+    {
+      "from": "osm-5908438342",
+      "to": "osm-5908438350"
+    },
+    {
+      "from": "osm-5908438353",
+      "to": "osm-5908438354"
+    },
+    {
+      "from": "osm-5204197400",
+      "to": "osm-4125606725"
+    },
+    {
+      "from": "osm-4125606725",
+      "to": "osm-1439685276"
+    },
+    {
+      "from": "osm-1439685276",
+      "to": "osm-7776188961"
+    },
+    {
+      "from": "osm-5908438357",
+      "to": "osm-5908438358"
+    },
+    {
+      "from": "osm-5908438363",
+      "to": "osm-5908438366"
+    },
+    {
+      "from": "osm-5908438341",
+      "to": "osm-6061196905"
+    },
+    {
+      "from": "osm-6061196905",
+      "to": "osm-8898225536"
+    },
+    {
+      "from": "osm-6061196910",
+      "to": "osm-5908438335"
+    },
+    {
+      "from": "osm-5908438334",
+      "to": "osm-6061196916"
+    },
+    {
+      "from": "osm-6061196916",
+      "to": "osm-6061196911"
+    },
+    {
+      "from": "osm-6061196916",
+      "to": "osm-6061196919"
+    },
+    {
+      "from": "osm-5204197357",
+      "to": "osm-6061196930"
+    },
+    {
+      "from": "osm-5908438336",
+      "to": "osm-5908438337",
+      "type": "path"
+    },
+    {
+      "from": "osm-6061196930",
+      "to": "osm-6061196933"
+    },
+    {
+      "from": "osm-6061196934",
+      "to": "osm-6061196935"
+    },
+    {
+      "from": "osm-6061196936",
+      "to": "osm-6061196934"
+    },
+    {
+      "from": "osm-6061196934",
+      "to": "osm-5908438337"
+    },
+    {
+      "from": "osm-6061196936",
+      "to": "osm-6747231706"
+    },
+    {
+      "from": "osm-6061196942",
+      "to": "osm-9277754058"
+    },
+    {
+      "from": "osm-9152714723",
+      "to": "osm-6061196948"
+    },
+    {
+      "from": "osm-1802625878",
+      "to": "osm-6061196950"
+    },
+    {
+      "from": "osm-3900032482",
+      "to": "osm-7776326422"
+    },
+    {
+      "from": "osm-7776326422",
+      "to": "osm-6061196955"
+    },
+    {
+      "from": "osm-7952097881",
+      "to": "osm-6061196973"
+    },
+    {
+      "from": "osm-6061196973",
+      "to": "osm-6061196971"
+    },
+    {
+      "from": "osm-6061196971",
+      "to": "osm-6061196972"
+    },
+    {
+      "from": "osm-6061196971",
+      "to": "osm-5169457523"
+    },
+    {
+      "from": "osm-6061197686",
+      "to": "osm-6061197685"
+    },
+    {
+      "from": "osm-6061197685",
+      "to": "osm-6061196976"
+    },
+    {
+      "from": "osm-6061196978",
+      "to": "osm-6061197685"
+    },
+    {
+      "from": "osm-6061196977",
+      "to": "osm-6061197686"
+    },
+    {
+      "from": "osm-6061197689",
+      "to": "osm-6061197690"
+    },
+    {
+      "from": "osm-6061197690",
+      "to": "osm-6061197688"
+    },
+    {
+      "from": "osm-6061197698",
+      "to": "osm-6061197697"
+    },
+    {
+      "from": "osm-8898213169",
+      "to": "osm-5908438351"
+    },
+    {
+      "from": "osm-6061197705",
+      "to": "osm-6061197707"
+    },
+    {
+      "from": "osm-7810411060",
+      "to": "osm-7821277287"
+    },
+    {
+      "from": "osm-6297959832",
+      "to": "osm-6297959834"
+    },
+    {
+      "from": "osm-6357210188",
+      "to": "osm-6357210192"
+    },
+    {
+      "from": "osm-6357210206",
+      "to": "osm-12379377963"
+    },
+    {
+      "from": "osm-12379377963",
+      "to": "osm-6357210213"
+    },
+    {
+      "from": "osm-6357210213",
+      "to": "osm-6357210419"
+    },
+    {
+      "from": "osm-6357210419",
+      "to": "osm-7596884267"
+    },
+    {
+      "from": "osm-7596884267",
+      "to": "osm-6358256181"
+    },
+    {
+      "from": "osm-6358256181",
+      "to": "osm-6358256158"
+    },
+    {
+      "from": "osm-6358256158",
+      "to": "osm-8517998271"
+    },
+    {
+      "from": "osm-8517998271",
+      "to": "osm-7929214960"
+    },
+    {
+      "from": "osm-6357210421",
+      "to": "osm-7596884270"
+    },
+    {
+      "from": "osm-7596884270",
+      "to": "osm-7596884268"
+    },
+    {
+      "from": "osm-9041731700",
+      "to": "osm-7942371342"
+    },
+    {
+      "from": "osm-7942371342",
+      "to": "osm-6357210443"
+    },
+    {
+      "from": "osm-6357210443",
+      "to": "osm-8517998303"
+    },
+    {
+      "from": "osm-7932064908",
+      "to": "osm-7932064912"
+    },
+    {
+      "from": "osm-7932064912",
+      "to": "osm-6358256175"
+    },
+    {
+      "from": "osm-6358256175",
+      "to": "osm-7931309982"
+    },
+    {
+      "from": "osm-7931309982",
+      "to": "osm-7932064914"
+    },
+    {
+      "from": "osm-7932064914",
+      "to": "osm-7932064917"
+    },
+    {
+      "from": "osm-7932064917",
+      "to": "osm-6358256158"
+    },
+    {
+      "from": "osm-5204197377",
+      "to": "osm-6478054771"
+    },
+    {
+      "from": "osm-6478054771",
+      "to": "osm-8898213153"
+    },
+    {
+      "from": "osm-6478054771",
+      "to": "osm-6478054772"
+    },
+    {
+      "from": "osm-6478054777",
+      "to": "osm-5908438315"
+    },
+    {
+      "from": "osm-5908438315",
+      "to": "osm-8898213154"
+    },
+    {
+      "from": "osm-5908438320",
+      "to": "osm-8898213154"
+    },
+    {
+      "from": "osm-8898213154",
+      "to": "osm-8898213153"
+    },
+    {
+      "from": "osm-6478071641",
+      "to": "osm-6478071635"
+    },
+    {
+      "from": "osm-9464268720",
+      "to": "osm-6504501364"
+    },
+    {
+      "from": "osm-6504501366",
+      "to": "osm-1215106190"
+    },
+    {
+      "from": "osm-6511816647",
+      "to": "osm-8655649937"
+    },
+    {
+      "from": "osm-6747231702",
+      "to": "osm-5204205112"
+    },
+    {
+      "from": "osm-6781270637",
+      "to": "osm-6061196955"
+    },
+    {
+      "from": "osm-6061196955",
+      "to": "osm-6061196911"
+    },
+    {
+      "from": "osm-9041730368",
+      "to": "osm-7399065376"
+    },
+    {
+      "from": "osm-7399065377",
+      "to": "osm-7399065379"
+    },
+    {
+      "from": "osm-7399065380",
+      "to": "osm-7399065381"
+    },
+    {
+      "from": "osm-7399065381",
+      "to": "osm-5204197379"
+    },
+    {
+      "from": "osm-7596884283",
+      "to": "osm-7596884284"
+    },
+    {
+      "from": "osm-3900032483",
+      "to": "osm-3900032483"
+    },
+    {
+      "from": "osm-7667764996",
+      "to": "osm-7667359785"
+    },
+    {
+      "from": "osm-7667359785",
+      "to": "osm-7667765016"
+    },
+    {
+      "from": "osm-7667765016",
+      "to": "osm-7667311884"
+    },
+    {
+      "from": "osm-7667764996",
+      "to": "osm-7667764998"
+    },
+    {
+      "from": "osm-7667764998",
+      "to": "osm-7667765001"
+    },
+    {
+      "from": "osm-7667765001",
+      "to": "osm-7821212287"
+    },
+    {
+      "from": "osm-5169457522",
+      "to": "osm-7776188919"
+    },
+    {
+      "from": "osm-7776188919",
+      "to": "osm-7776188920"
+    },
+    {
+      "from": "osm-7776188921",
+      "to": "osm-7776188922"
+    },
+    {
+      "from": "osm-7776188954",
+      "to": "osm-7776188963"
+    },
+    {
+      "from": "osm-7776188963",
+      "to": "osm-7776188961"
+    },
+    {
+      "from": "osm-7776188962",
+      "to": "osm-7776188963"
+    },
+    {
+      "from": "osm-7776188969",
+      "to": "osm-3748536046"
+    },
+    {
+      "from": "osm-3748536046",
+      "to": "osm-1802625906"
+    },
+    {
+      "from": "osm-1802625906",
+      "to": "osm-3826174284"
+    },
+    {
+      "from": "osm-7776306719",
+      "to": "osm-7776306720"
+    },
+    {
+      "from": "osm-7667248064",
+      "to": "osm-7776326422"
+    },
+    {
+      "from": "osm-7667248063",
+      "to": "osm-7776326423"
+    },
+    {
+      "from": "osm-5709159939",
+      "to": "osm-5709159930"
+    },
+    {
+      "from": "osm-6478054773",
+      "to": "osm-9278704695"
+    },
+    {
+      "from": "osm-9278704695",
+      "to": "osm-9277713013"
+    },
+    {
+      "from": "osm-5204197377",
+      "to": "osm-7776324493"
+    },
+    {
+      "from": "osm-3899849453",
+      "to": "osm-7776324505"
+    },
+    {
+      "from": "osm-7776397142",
+      "to": "osm-7776397143"
+    },
+    {
+      "from": "osm-7777674160",
+      "to": "osm-7777674161"
+    },
+    {
+      "from": "osm-7777674161",
+      "to": "osm-7667248067"
+    },
+    {
+      "from": "osm-7667248067",
+      "to": "osm-7777674162"
+    },
+    {
+      "from": "osm-2561691955",
+      "to": "osm-7777674159"
+    },
+    {
+      "from": "osm-7777674162",
+      "to": "osm-3899942104"
+    },
+    {
+      "from": "osm-5200797723",
+      "to": "osm-7667949514"
+    },
+    {
+      "from": "osm-7806242126",
+      "to": "osm-7806242127"
+    },
+    {
+      "from": "osm-7806242134",
+      "to": "osm-5908438367"
+    },
+    {
+      "from": "osm-7806946765",
+      "to": "osm-3899942087"
+    },
+    {
+      "from": "osm-7776397143",
+      "to": "osm-7806946767"
+    },
+    {
+      "from": "osm-7806994285",
+      "to": "osm-9026743910"
+    },
+    {
+      "from": "osm-9026743910",
+      "to": "osm-9026743913"
+    },
+    {
+      "from": "osm-7806994291",
+      "to": "osm-5908301712"
+    },
+    {
+      "from": "osm-7810560413",
+      "to": "osm-7776326423"
+    },
+    {
+      "from": "osm-5169457415",
+      "to": "osm-7810411047"
+    },
+    {
+      "from": "osm-6297959832",
+      "to": "osm-6297959833"
+    },
+    {
+      "from": "osm-7810560413",
+      "to": "osm-7810560416"
+    },
+    {
+      "from": "osm-7810560439",
+      "to": "osm-7810560442"
+    },
+    {
+      "from": "osm-7810560442",
+      "to": "osm-7810560441"
+    },
+    {
+      "from": "osm-7810560445",
+      "to": "osm-7810560446"
+    },
+    {
+      "from": "osm-5908438359",
+      "to": "osm-7810596081"
+    },
+    {
+      "from": "osm-5128823527",
+      "to": "osm-7821193247",
+      "type": "path"
+    },
+    {
+      "from": "osm-5734094404",
+      "to": "osm-3764497498"
+    },
+    {
+      "from": "osm-6504501362",
+      "to": "osm-7821236122"
+    },
+    {
+      "from": "osm-6504501364",
+      "to": "osm-7821236123"
+    },
+    {
+      "from": "osm-7821277287",
+      "to": "osm-3899692247"
+    },
+    {
+      "from": "osm-7810624670",
+      "to": "osm-7822706756"
+    },
+    {
+      "from": "osm-5244452075",
+      "to": "osm-7822706761"
+    },
+    {
+      "from": "osm-6061196939",
+      "to": "osm-7822706762"
+    },
+    {
+      "from": "osm-6358256158",
+      "to": "osm-7929214948"
+    },
+    {
+      "from": "osm-7929214948",
+      "to": "osm-8518008948"
+    },
+    {
+      "from": "osm-7932064908",
+      "to": "osm-7942371433"
+    },
+    {
+      "from": "osm-7932064912",
+      "to": "osm-7942371428"
+    },
+    {
+      "from": "osm-7932064919",
+      "to": "osm-9041730415"
+    },
+    {
+      "from": "osm-7942371428",
+      "to": "osm-7942371433"
+    },
+    {
+      "from": "osm-7776188922",
+      "to": "osm-7952097881"
+    },
+    {
+      "from": "osm-7952097884",
+      "to": "osm-7952127385"
+    },
+    {
+      "from": "osm-7821193247",
+      "to": "osm-7952097884"
+    },
+    {
+      "from": "osm-7952097884",
+      "to": "osm-7952097883"
+    },
+    {
+      "from": "osm-177090193",
+      "to": "osm-5169457408"
+    },
+    {
+      "from": "osm-5169457408",
+      "to": "osm-5734095427"
+    },
+    {
+      "from": "osm-5734095427",
+      "to": "osm-1439685287"
+    },
+    {
+      "from": "osm-8655649935",
+      "to": "osm-8655649937"
+    },
+    {
+      "from": "osm-8898213156",
+      "to": "osm-8846331922"
+    },
+    {
+      "from": "osm-8846331922",
+      "to": "osm-9278704697"
+    },
+    {
+      "from": "osm-9278704697",
+      "to": "osm-8846331920"
+    },
+    {
+      "from": "osm-9278704694",
+      "to": "osm-8846331922"
+    },
+    {
+      "from": "osm-8846331923",
+      "to": "osm-8846331925"
+    },
+    {
+      "from": "osm-6061196951",
+      "to": "osm-8846331958"
+    },
+    {
+      "from": "osm-8846331958",
+      "to": "osm-8846331961"
+    },
+    {
+      "from": "osm-3899850157",
+      "to": "osm-6478054777"
+    },
+    {
+      "from": "osm-6478054777",
+      "to": "osm-6478054782"
+    },
+    {
+      "from": "osm-6478054782",
+      "to": "osm-8898213156"
+    },
+    {
+      "from": "osm-6478054783",
+      "to": "osm-8898213156"
+    },
+    {
+      "from": "osm-8898225534",
+      "to": "osm-8898213169"
+    },
+    {
+      "from": "osm-8898213169",
+      "to": "osm-8898213168"
+    },
+    {
+      "from": "osm-8898213168",
+      "to": "osm-8898213172"
+    },
+    {
+      "from": "osm-8898213186",
+      "to": "osm-8898213187"
+    },
+    {
+      "from": "osm-7810171199",
+      "to": "osm-7776188961"
+    },
+    {
+      "from": "osm-1192925750",
+      "to": "osm-5908438310"
+    },
+    {
+      "from": "osm-8898225535",
+      "to": "osm-8898225536"
+    },
+    {
+      "from": "osm-8898225559",
+      "to": "osm-8898225557"
+    },
+    {
+      "from": "osm-8898225561",
+      "to": "osm-3899849416"
+    },
+    {
+      "from": "osm-8955022339",
+      "to": "osm-6478071639"
+    },
+    {
+      "from": "osm-6478071639",
+      "to": "osm-8954994202"
+    },
+    {
+      "from": "osm-8954994202",
+      "to": "osm-167056747"
+    },
+    {
+      "from": "osm-5908438325",
+      "to": "osm-8968803538"
+    },
+    {
+      "from": "osm-4125659300",
+      "to": "osm-9025415720"
+    },
+    {
+      "from": "osm-5734095427",
+      "to": "osm-9025430192"
+    },
+    {
+      "from": "osm-9025430192",
+      "to": "osm-9025430190"
+    },
+    {
+      "from": "osm-6357210186",
+      "to": "osm-9025467409"
+    },
+    {
+      "from": "osm-9025467409",
+      "to": "osm-6357210187"
+    },
+    {
+      "from": "osm-6357210187",
+      "to": "osm-6357210188"
+    },
+    {
+      "from": "osm-3748536041",
+      "to": "osm-3764497510"
+    },
+    {
+      "from": "osm-5414818665",
+      "to": "osm-9025462723"
+    },
+    {
+      "from": "osm-9025462725",
+      "to": "osm-9025462726"
+    },
+    {
+      "from": "osm-5908438309",
+      "to": "osm-9025462726"
+    },
+    {
+      "from": "osm-9025462726",
+      "to": "osm-6061197705"
+    },
+    {
+      "from": "osm-5908438346",
+      "to": "osm-9041730358"
+    },
+    {
+      "from": "osm-5169457407",
+      "to": "osm-9041730367"
+    },
+    {
+      "from": "osm-8898225517",
+      "to": "osm-7806242128"
+    },
+    {
+      "from": "osm-7806242128",
+      "to": "osm-5908438362"
+    },
+    {
+      "from": "osm-5908438362",
+      "to": "osm-7806242127"
+    },
+    {
+      "from": "osm-7806242127",
+      "to": "osm-5908438363"
+    },
+    {
+      "from": "osm-9140619560",
+      "to": "osm-4125653882"
+    },
+    {
+      "from": "osm-4125653873",
+      "to": "osm-4125653874"
+    },
+    {
+      "from": "osm-7932064919",
+      "to": "osm-7932064921"
+    },
+    {
+      "from": "osm-5414818671",
+      "to": "osm-9149522810"
+    },
+    {
+      "from": "osm-9152776125",
+      "to": "osm-6061196951"
+    },
+    {
+      "from": "osm-6061196951",
+      "to": "osm-9152776126"
+    },
+    {
+      "from": "osm-9152776130",
+      "to": "osm-9152776133"
+    },
+    {
+      "from": "osm-9152776133",
+      "to": "osm-9152776132"
+    },
+    {
+      "from": "osm-9152776134",
+      "to": "osm-9152776135"
+    },
+    {
+      "from": "osm-9152762934",
+      "to": "osm-5908438346"
+    },
+    {
+      "from": "osm-6061196942",
+      "to": "osm-9152714723"
+    },
+    {
+      "from": "osm-1802625863",
+      "to": "osm-6061196919"
+    },
+    {
+      "from": "osm-6061196919",
+      "to": "osm-9152750623"
+    },
+    {
+      "from": "osm-8846331927",
+      "to": "osm-5908438311"
+    },
+    {
+      "from": "osm-5908438311",
+      "to": "osm-8846331925"
+    },
+    {
+      "from": "osm-9153132239",
+      "to": "osm-9153132240"
+    },
+    {
+      "from": "osm-9175304863",
+      "to": "osm-9175304864"
+    },
+    {
+      "from": "osm-3899849418",
+      "to": "osm-9175304937"
+    },
+    {
+      "from": "osm-8846331961",
+      "to": "osm-9277639507"
+    },
+    {
+      "from": "osm-9277639508",
+      "to": "osm-9175304937"
+    },
+    {
+      "from": "osm-9277713013",
+      "to": "osm-9277713014"
+    },
+    {
+      "from": "osm-9277713014",
+      "to": "osm-9277713012"
+    },
+    {
+      "from": "osm-9277754058",
+      "to": "osm-5204197361"
+    },
+    {
+      "from": "osm-8898213153",
+      "to": "osm-5908438319"
+    },
+    {
+      "from": "osm-5908438319",
+      "to": "osm-5908438318"
+    },
+    {
+      "from": "osm-5908438318",
+      "to": "osm-6478054767"
+    },
+    {
+      "from": "osm-6478054767",
+      "to": "osm-6478054768"
+    },
+    {
+      "from": "osm-9278704695",
+      "to": "osm-9278704696"
+    },
+    {
+      "from": "osm-5908438324",
+      "to": "osm-9278704697"
+    },
+    {
+      "from": "osm-5352538895",
+      "to": "osm-9312484679"
+    },
+    {
+      "from": "osm-9312484679",
+      "to": "osm-9312484678"
+    },
+    {
+      "from": "osm-9312484679",
+      "to": "osm-3900032530"
+    },
+    {
+      "from": "osm-9312484682",
+      "to": "osm-9312484683"
+    },
+    {
+      "from": "osm-9312484701",
+      "to": "osm-9312484702"
+    },
+    {
+      "from": "osm-3899942085",
+      "to": "osm-3764497501"
+    },
+    {
+      "from": "osm-3764497501",
+      "to": "osm-3899942087"
+    },
+    {
+      "from": "osm-3899942087",
+      "to": "osm-1802625926"
+    },
+    {
+      "from": "osm-9469513440",
+      "to": "osm-9469513440",
+      "type": "path"
+    },
+    {
+      "from": "osm-9695415561",
+      "to": "osm-9695415569"
+    },
+    {
+      "from": "osm-6061196911",
+      "to": "osm-1802625863"
+    },
+    {
+      "from": "osm-9152750623",
+      "to": "osm-5204197357"
+    },
+    {
+      "from": "osm-6061196942",
+      "to": "osm-9312484682"
+    },
+    {
+      "from": "osm-9312484682",
+      "to": "osm-1802625878"
+    },
+    {
+      "from": "osm-2561691955",
+      "to": "osm-9026743910"
+    },
+    {
+      "from": "osm-1439685287",
+      "to": "osm-5734095430"
+    },
+    {
+      "from": "osm-5734095430",
+      "to": "osm-5734095436"
+    },
+    {
+      "from": "osm-5734095436",
+      "to": "osm-5734095433"
+    },
+    {
+      "from": "osm-5734095433",
+      "to": "osm-5734095443"
+    },
+    {
+      "from": "osm-5734095443",
+      "to": "osm-5734095440"
+    },
+    {
+      "from": "osm-5734095440",
+      "to": "osm-1268239999"
+    },
+    {
+      "from": "osm-2550704955",
+      "to": "osm-2550704950"
+    },
+    {
+      "from": "osm-3900168808",
+      "to": "osm-2550704950"
+    },
+    {
+      "from": "osm-2550704950",
+      "to": "osm-2550704948"
+    },
+    {
+      "from": "osm-5700420820",
+      "to": "osm-7806242134"
+    },
+    {
+      "from": "osm-2550704948",
+      "to": "osm-3900167221"
+    },
+    {
+      "from": "osm-7776188921",
+      "to": "merged-mn4u9bnu"
+    },
+    {
+      "from": "merged-mn4u9bnu",
+      "to": "osm-6061197690"
+    },
+    {
+      "from": "osm-6061197689",
+      "to": "merged-mn4u9hst"
+    },
+    {
+      "from": "merged-mn4u9hst",
+      "to": "osm-3899692370"
+    },
+    {
+      "from": "merged-mn4u9hst",
+      "to": "osm-7810624686"
+    },
+    {
+      "from": "merged-mn4u9bnu",
+      "to": "merged-mn4u9hst"
+    },
+    {
+      "from": "merged-mn4ua4tc",
+      "to": "osm-3899821665"
+    },
+    {
+      "from": "merged-mn4ua4tc",
+      "to": "osm-5138558081"
+    },
+    {
+      "from": "osm-3899821665",
+      "to": "merged-mn4uauc2"
+    },
+    {
+      "from": "merged-mn4uauc2",
+      "to": "osm-5138558081"
+    },
+    {
+      "from": "merged-mn4uauc2",
+      "to": "osm-6061197686"
+    },
+    {
+      "from": "osm-1802625833",
+      "to": "merged-mn4uauc2"
+    },
+    {
+      "from": "osm-3899821665",
+      "to": "merged-mn4ub4uy"
+    },
+    {
+      "from": "merged-mn4ub4uy",
+      "to": "osm-7776188921"
+    },
+    {
+      "from": "merged-mn4ub4uy",
+      "to": "merged-mn4uauc2"
+    },
+    {
+      "from": "osm-6061196968",
+      "to": "merged-mn4ub4uy"
+    },
+    {
+      "from": "merged-mn4ub8fr",
+      "to": "osm-1802625833"
+    },
+    {
+      "from": "osm-5204208821",
+      "to": "merged-mn4ub8fr"
+    },
+    {
+      "from": "merged-mn4ub8fr",
+      "to": "merged-mn4ub4uy"
+    },
+    {
+      "from": "osm-7776188920",
+      "to": "merged-mn4ubiu1"
+    },
+    {
+      "from": "merged-mn4ubiu1",
+      "to": "osm-6061196958"
+    },
+    {
+      "from": "merged-mn4ub8fr",
+      "to": "merged-mn4ubiu1"
+    },
+    {
+      "from": "osm-3899849456",
+      "to": "merged-mn5ygc6b"
+    },
+    {
+      "from": "merged-mn5ygc6b",
+      "to": "osm-177099330"
+    },
+    {
+      "from": "merged-mn5ygc6b",
+      "to": "osm-8846331921"
+    },
+    {
+      "from": "merged-mn5ygk0y",
+      "to": "osm-3899849431"
+    },
+    {
+      "from": "osm-5908438346",
+      "to": "merged-mn5ygk0y"
+    },
+    {
+      "from": "merged-mn5ygk0y",
+      "to": "osm-9153132239"
+    },
+    {
+      "from": "merged-mn5ygosb",
+      "to": "osm-3899849455"
+    },
+    {
+      "from": "osm-8846331927",
+      "to": "merged-mn5ygosb"
+    },
+    {
+      "from": "osm-8846331925",
+      "to": "merged-mn5ygosb"
+    },
+    {
+      "from": "merged-mn5ygosb",
+      "to": "merged-mn5ygk0y"
+    },
+    {
+      "from": "merged-mn60vtki",
+      "to": "osm-7667764996"
+    },
+    {
+      "from": "osm-7058095991",
+      "to": "merged-mn60vvtn"
+    },
+    {
+      "from": "merged-mn60vvtn",
+      "to": "merged-mn60vtki"
+    },
+    {
+      "from": "osm-2550704957",
+      "to": "merged-mn60wxyq"
+    },
+    {
+      "from": "osm-7667359836",
+      "to": "merged-mn60xkf3"
+    },
+    {
+      "from": "merged-mn60xkf3",
+      "to": "osm-2550704955"
+    },
+    {
+      "from": "merged-mn60wxyq",
+      "to": "merged-mn60xkf3"
+    },
+    {
+      "from": "merged-mn60yo8g",
+      "to": "osm-7821212291"
+    },
+    {
+      "from": "osm-7821212287",
+      "to": "merged-mn60yo8g"
+    },
+    {
+      "from": "osm-3900155840",
+      "to": "merged-mn60yrqh"
+    },
+    {
+      "from": "merged-mn60yrqh",
+      "to": "osm-4467839978"
+    },
+    {
+      "from": "merged-mn60yrqh",
+      "to": "merged-mn60yo8g"
+    },
+    {
+      "from": "merged-mn60z16w",
+      "to": "osm-7667842910"
+    },
+    {
+      "from": "osm-1440082853",
+      "to": "merged-mn60z16w"
+    },
+    {
+      "from": "merged-mn60zauk",
+      "to": "osm-3900154855"
+    },
+    {
+      "from": "merged-mn60z16w",
+      "to": "merged-mn60zauk"
+    },
+    {
+      "from": "osm-9695415570",
+      "to": "merged-mn60zhi9"
+    },
+    {
+      "from": "merged-mn60zhi9",
+      "to": "osm-1440082853"
+    },
+    {
+      "from": "merged-mn60zhi9",
+      "to": "osm-3056257473"
+    },
+    {
+      "from": "merged-mn60zhi9",
+      "to": "merged-mn60z16w"
+    },
+    {
+      "from": "osm-7640481399",
+      "to": "n-mn611n65"
+    },
+    {
+      "from": "n-mn611n65",
+      "to": "n-mn611o1e"
+    },
+    {
+      "from": "n-mn611o1e",
+      "to": "n-mn611pub"
+    },
+    {
+      "from": "n-mn611pub",
+      "to": "n-mn611qn8"
+    },
+    {
+      "from": "n-mn611qn8",
+      "to": "osm-8517998303"
+    },
+    {
+      "from": "osm-7932064921",
+      "to": "osm-8517998271"
+    },
+    {
+      "from": "osm-7929214960",
+      "to": "osm-177091095"
+    },
+    {
+      "from": "osm-9695415570",
+      "to": "n-mn6138iy"
+    },
+    {
+      "from": "osm-7667248067",
+      "to": "merged-mn66gitq"
+    },
+    {
+      "from": "osm-7806946779",
+      "to": "osm-6504506275"
+    },
+    {
+      "from": "osm-6504506275",
+      "to": "osm-7777674162"
+    },
+    {
+      "from": "osm-3764497498",
+      "to": "merged-mn66hedp"
+    },
+    {
+      "from": "merged-mn66hedp",
+      "to": "osm-3899942109"
+    },
+    {
+      "from": "merged-mn66gitq",
+      "to": "merged-mn66hedp"
+    },
+    {
+      "from": "osm-7806946770",
+      "to": "osm-2561691955"
+    },
+    {
+      "from": "merged-mn66invj",
+      "to": "osm-7806242130"
+    },
+    {
+      "from": "osm-7806242128",
+      "to": "merged-mn66invj"
+    },
+    {
+      "from": "osm-3764497502",
+      "to": "merged-mn66j0eg"
+    },
+    {
+      "from": "merged-mn66j0eg",
+      "to": "merged-mn66j1wb"
+    },
+    {
+      "from": "osm-6297959838",
+      "to": "merged-mn66j58g"
+    },
+    {
+      "from": "merged-mn66j58g",
+      "to": "merged-mn66j1wb"
+    },
+    {
+      "from": "merged-mn66jhpr",
+      "to": "osm-9041730381"
+    },
+    {
+      "from": "merged-mn66j0eg",
+      "to": "merged-mn66jhpr"
+    },
+    {
+      "from": "osm-6297959834",
+      "to": "merged-mn66jhpr"
+    },
+    {
+      "from": "osm-4125606712",
+      "to": "merged-mn66k57x"
+    },
+    {
+      "from": "merged-mn66k57x",
+      "to": "osm-3764497508"
+    },
+    {
+      "from": "merged-mn66k57x",
+      "to": "osm-6297959838"
+    },
+    {
+      "from": "merged-mn66l38c",
+      "to": "osm-4125606712"
+    },
+    {
+      "from": "osm-6297959831",
+      "to": "merged-mn66l38c"
+    },
+    {
+      "from": "osm-6297959833",
+      "to": "merged-mn66llop"
+    },
+    {
+      "from": "merged-mn66llop",
+      "to": "osm-1802625908"
+    },
+    {
+      "from": "merged-mn66llop",
+      "to": "osm-1192917594"
+    },
+    {
+      "from": "osm-6297959831",
+      "to": "merged-mn66lqpd"
+    },
+    {
+      "from": "merged-mn66lqpd",
+      "to": "osm-6297959832"
+    },
+    {
+      "from": "osm-7776188961",
+      "to": "merged-mn66mzx8"
+    },
+    {
+      "from": "merged-mn4ubiu1",
+      "to": "merged-mn66mzx8"
+    },
+    {
+      "from": "osm-7667248063",
+      "to": "merged-mn66mzx8"
+    },
+    {
+      "from": "merged-mn66n1v1",
+      "to": "osm-5204197363"
+    },
+    {
+      "from": "osm-7667248063",
+      "to": "merged-mn66n1v1"
+    },
+    {
+      "from": "merged-mn66mzx8",
+      "to": "merged-mn66n1v1"
+    },
+    {
+      "from": "osm-6061196903",
+      "to": "n-mn66ogpw"
+    },
+    {
+      "from": "n-mn66ogpw",
+      "to": "n-mn66oh65"
+    },
+    {
+      "from": "n-mn66oh65",
+      "to": "n-mn66oi6a"
+    },
+    {
+      "from": "n-mn66oi6a",
+      "to": "osm-6061196910"
+    },
+    {
+      "from": "merged-mn66oumr",
+      "to": "osm-6061196942"
+    },
+    {
+      "from": "osm-6747231706",
+      "to": "merged-mn66oumr"
+    },
+    {
+      "from": "osm-5204197357",
+      "to": "merged-mn66ow6b"
+    },
+    {
+      "from": "merged-mn66ow6b",
+      "to": "osm-6061196941"
+    },
+    {
+      "from": "merged-mn66ow6b",
+      "to": "merged-mn66oumr"
+    },
+    {
+      "from": "osm-5204197390",
+      "to": "merged-mn66z03o"
+    },
+    {
+      "from": "merged-mn66z1lw",
+      "to": "osm-7810560471"
+    },
+    {
+      "from": "merged-mn66z03o",
+      "to": "merged-mn66z1lw"
+    },
+    {
+      "from": "osm-9025430189",
+      "to": "merged-mn66zb7h"
+    },
+    {
+      "from": "osm-9041730415",
+      "to": "merged-mn66zi6t"
+    },
+    {
+      "from": "merged-mn66zb7h",
+      "to": "merged-mn66zi6t"
+    },
+    {
+      "from": "osm-6357210192",
+      "to": "merged-mn66zjrj"
+    },
+    {
+      "from": "osm-6357210201",
+      "to": "merged-mn66zjrj"
+    },
+    {
+      "from": "merged-mn66zjrj",
+      "to": "osm-7932064908"
+    },
+    {
+      "from": "merged-mn66z83g",
+      "to": "merged-mn66zjrj"
+    },
+    {
+      "from": "merged-mn66zi6t",
+      "to": "merged-mn66zjrj"
+    },
+    {
+      "from": "osm-6357210419",
+      "to": "merged-mn670iqz"
+    },
+    {
+      "from": "merged-mn670iqz",
+      "to": "osm-6357210421"
+    },
+    {
+      "from": "osm-7596884266",
+      "to": "merged-mn670iqz"
+    },
+    {
+      "from": "osm-3764497537",
+      "to": "merged-mn671l5h"
+    },
+    {
+      "from": "merged-mn671l5h",
+      "to": "osm-3748536041"
+    },
+    {
+      "from": "merged-mn671l5h",
+      "to": "osm-5908438360"
+    },
+    {
+      "from": "osm-9152776130",
+      "to": "merged-mn67230k"
+    },
+    {
+      "from": "osm-8846331961",
+      "to": "merged-mn67230k"
+    },
+    {
+      "from": "osm-1919818224",
+      "to": "merged-mn67230k"
+    },
+    {
+      "from": "merged-mn67230k",
+      "to": "osm-9175304863"
+    },
+    {
+      "from": "osm-3899821813",
+      "to": "merged-mn67265n"
+    },
+    {
+      "from": "merged-mn67265n",
+      "to": "osm-5891556308"
+    },
+    {
+      "from": "merged-mn67265n",
+      "to": "osm-3899849413"
+    },
+    {
+      "from": "merged-mn6729nn",
+      "to": "osm-177099329"
+    },
+    {
+      "from": "merged-mn6729nn",
+      "to": "osm-4738877915"
+    },
+    {
+      "from": "merged-mn6729nn",
+      "to": "osm-167056747"
+    },
+    {
+      "from": "merged-mn67265n",
+      "to": "merged-mn6729nn"
+    },
+    {
+      "from": "osm-5709159930",
+      "to": "merged-mn672bzv"
+    },
+    {
+      "from": "merged-mn672bzv",
+      "to": "osm-6478071641"
+    },
+    {
+      "from": "merged-mn672bzv",
+      "to": "osm-6478071639"
+    },
+    {
+      "from": "osm-5908438322",
+      "to": "merged-mn672bzv"
+    },
+    {
+      "from": "merged-mn672fdp",
+      "to": "osm-3899849456"
+    },
+    {
+      "from": "osm-3899849448",
+      "to": "merged-mn672fdp"
+    },
+    {
+      "from": "osm-5908438310",
+      "to": "merged-mn672fdp"
+    },
+    {
+      "from": "merged-mn672fdp",
+      "to": "osm-9153132234"
+    },
+    {
+      "from": "osm-9277713013",
+      "to": "merged-mn672hcd"
+    },
+    {
+      "from": "merged-mn672hcd",
+      "to": "merged-mn672fdp"
+    },
+    {
+      "from": "osm-5204197380",
+      "to": "merged-mn673acv"
+    },
+    {
+      "from": "merged-mn673acv",
+      "to": "osm-5204197400"
+    },
+    {
+      "from": "osm-3764497506",
+      "to": "merged-mn673cme"
+    },
+    {
+      "from": "merged-mn673cme",
+      "to": "osm-3748536044"
+    },
+    {
+      "from": "merged-mn673cme",
+      "to": "osm-7810411060"
+    },
+    {
+      "from": "merged-mn673cme",
+      "to": "merged-mn673acv"
+    },
+    {
+      "from": "osm-7810171199",
+      "to": "osm-7810560413"
+    },
+    {
+      "from": "merged-mn66z83g",
+      "to": "n-mn67599k"
+    },
+    {
+      "from": "n-mn67599k",
+      "to": "osm-6357210419"
+    },
+    {
+      "from": "osm-8655649935",
+      "to": "osm-8655649934"
+    },
+    {
+      "id": "e-mn67w8ae",
+      "from": "osm-7810624670",
+      "to": "osm-7810624671",
+      "type": "step_free",
+      "gradient": 0,
+      "steps": 0
+    },
+    {
+      "id": "e-mn67wv14",
+      "from": "osm-5734094402",
+      "to": "osm-9312484702",
+      "type": "step_free",
+      "gradient": 0,
+      "steps": 0
+    }
+  ]
+}
