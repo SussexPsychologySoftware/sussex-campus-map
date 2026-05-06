@@ -38074,6 +38074,11 @@ require_leaflet_maplibre_gl();
     bounds: illustrationBounds,
     tileSize: 256
   }).addTo(map);
+  const dioramaBounds = [[50.8562429, -0.1112367], [50.8770442, -0.061798]];
+  const dioramaLayer = import_leaflet.default.imageOverlay("diorama-illustration/output/whole-map-styled-v14-refined3.jpg", dioramaBounds, {
+    opacity: 1,
+    zIndex: 500
+  }).addTo(map);
   const btnIllustration = document.getElementById("layerIllustration");
   const btnMapTiles = document.getElementById("layerMap");
   const btnSatellite = document.getElementById("layerSatellite");

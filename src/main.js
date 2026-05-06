@@ -206,6 +206,12 @@ const illustrationLayer = L.tileLayer('tiles/{z}/{x}/{y}.png', {
     tileSize: 256
 }).addTo(map);
 
+// DEBUG: Diorama overlay for preview (remove before shipping)
+const dioramaBounds = [[50.8562429, -0.1112367], [50.8770442, -0.0617980]];
+const dioramaLayer = L.imageOverlay('diorama-illustration/output/whole-map-styled-v14-refined3.jpg', dioramaBounds, {
+    opacity: 1.0, zIndex: 500,
+}).addTo(map);
+
 // ── Custom Layer Toggle ────────────────────────────────────────
 const btnIllustration = document.getElementById('layerIllustration');
 const btnMapTiles = document.getElementById('layerMap');
